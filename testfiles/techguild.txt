@@ -1,0 +1,1589 @@
+[0.00s -> 5.00s] SPEAKER 1:  ...tomorrow pa yung mali ti.
+[7.00s -> 9.00s] SPEAKER 1:  Ayun, so...
+[9.00s -> 11.00s] SPEAKER 1:  ...um...
+[11.00s -> 13.00s] SPEAKER 1:  ...first siguro is...
+[13.00s -> 15.00s] SPEAKER 1:  ...um...
+[15.00s -> 17.00s] SPEAKER 1:  ...um...
+[17.00s -> 19.00s] SPEAKER 1:  ...um...
+[19.00s -> 20.00s] SPEAKER 1:  ...wait...
+[20.00s -> 24.00s] SPEAKER 1:  ...ayun, update lang na about doon sa event natin.
+[24.00s -> 26.00s] SPEAKER 1:  ...um...
+[26.00s -> 28.00s] SPEAKER 1:  ...tuloy siya...
+[28.00s -> 30.00s] SPEAKER 1:  ...tuloy siya...
+[30.00s -> 32.00s] SPEAKER 1:  ...okay yung paper natin,
+[32.00s -> 34.00s] SPEAKER 1:  ...aprobahan na siya, siyempre.
+[34.00s -> 36.00s] SPEAKER 1:  Kaya tayo na ang kapag-post.
+[36.00s -> 38.00s] SPEAKER 1:  ...um...
+[38.00s -> 40.00s] SPEAKER 1:  ...ngayon, as of now, we have
+[40.00s -> 42.00s] SPEAKER 1:  five teams pa lang.
+[42.00s -> 44.00s] SPEAKER 1:  So hindi natin nagawa,
+[44.00s -> 46.00s] SPEAKER 1:  hindi na puno yung ten teams.
+[46.00s -> 47.00s] SPEAKER 1:  So...
+[47.00s -> 49.00s] SPEAKER 1:  ...ano na, ano...
+[49.00s -> 51.00s] SPEAKER 1:  ...dinry naman natin yung best natin.
+[51.00s -> 54.00s] SPEAKER 1:  Naishare and all yung pubs.
+[54.00s -> 56.00s] SPEAKER 1:  But, siguro nga, kasi...
+[56.00s -> 59.00s] SPEAKER 1:  ...amada, may mga prelims and all yung iba.
+[59.00s -> 60.00s] SPEAKER 1:  Kaya hindi rin nakasali.
+[60.00s -> 63.00s] SPEAKER 1:  But ngayon nga, meron tayong five teams lang.
+[63.00s -> 65.00s] SPEAKER 1:  So, carry naman na yun.
+[65.00s -> 66.00s] SPEAKER 1:  Kay sa three.
+[66.00s -> 69.00s] SPEAKER 1:  Kay sa three teams talaga, iiyak talaga kayo.
+[70.00s -> 72.00s] SPEAKER 1:  Iiyak talaga tayo.
+[72.00s -> 73.00s] SPEAKER 1:  And...
+[73.00s -> 76.00s] SPEAKER 1:  ...ang kailangan, ang mga kailangan natin ay...
+[76.00s -> 79.00s] SPEAKER 1:  ...finalize is yung sa mismong event na yung during na...
+[79.00s -> 81.00s] SPEAKER 1:  ...and ngayon...
+[81.00s -> 84.00s] SPEAKER 1:  ...um, wait lang. Ano pa ba?
+[84.00s -> 85.00s] SPEAKER 1:  Five teams.
+[85.00s -> 88.00s] SPEAKER 1:  Tapos...
+[88.00s -> 91.00s] SPEAKER 1:  ...anong update sa event natin?
+[91.00s -> 92.00s] SPEAKER 1:  April, April...
+[92.00s -> 93.00s] SPEAKER 3:  ...April 2, ah.
+[93.00s -> 95.00s] SPEAKER 3:  Alam mo ba tayo meron nakaraan?
+[95.00s -> 96.00s] SPEAKER 3:  Sino kaya to?
+[96.00s -> 98.00s] SPEAKER 3:  May nag-chat sa akin.
+[98.00s -> 100.00s] SPEAKER 3:  Kahapon, may nag-chat sa akin.
+[100.00s -> 102.00s] SPEAKER 3:  Na sa IRTC ka po.
+[102.00s -> 103.00s] SPEAKER 3:  Ganun.
+[103.00s -> 105.00s] SPEAKER 3:  Na sa, na sa IRTC daw ba ako?
+[105.00s -> 108.00s] SPEAKER 3:  Akala nila kahapon yung event natin.
+[109.00s -> 110.00s] SPEAKER 1:  Ah...
+[110.00s -> 111.00s] SPEAKER 1:  ...aka ba't kahapon?
+[111.00s -> 113.00s] SPEAKER 1:  Officer yun tayo ah.
+[113.00s -> 115.00s] SPEAKER 3:  Bakit siya kahapon?
+[115.00s -> 117.00s] SPEAKER 1:  Tuesday kahapon na akala nila.
+[117.00s -> 118.00s] SPEAKER 3:  Ah, okay.
+[118.00s -> 119.00s] SPEAKER 3:  At yung isa...
+[119.00s -> 120.00s] SPEAKER 3:  ...tinanong nyo daw si...
+[120.00s -> 122.00s] SPEAKER 3:  ...tinanong nyo daw si Michael, sabe.
+[122.00s -> 124.00s] SPEAKER 3:  Tinanong nyo daw kay Michael.
+[124.00s -> 126.00s] SPEAKER 3:  Bakit wala ako sa IRTC?
+[126.00s -> 128.00s] SPEAKER 3:  Um, paglalaka.
+[128.00s -> 130.00s] SPEAKER 1:  Forgot Tuesday.
+[130.00s -> 132.00s] SPEAKER 1:  Forgot Tuesday.
+[132.00s -> 134.00s] SPEAKER 1:  Hindi, ayan April 2 siya.
+[134.00s -> 136.00s] SPEAKER 1:  Um, again...
+[136.00s -> 137.00s] SPEAKER 1:  ...8-1.
+[137.00s -> 139.00s] SPEAKER 1:  Ayun yung mismong competition natin.
+[139.00s -> 141.00s] SPEAKER 1:  Then 1-4 is...
+[141.00s -> 143.00s] SPEAKER 1:  ...iyu-open natin siya sa lahat na.
+[143.00s -> 147.00s] SPEAKER 1:  So ayun po ulit yung update about doon sa event.
+[147.00s -> 148.00s] SPEAKER 1:  So...
+[148.00s -> 150.00s] SPEAKER 1:  ...carry na dito, Kau.
+[151.00s -> 152.00s] SPEAKER 3:  Ano?
+[152.00s -> 153.00s] SPEAKER 3:  Ano pa ba?
+[153.00s -> 155.00s] SPEAKER 3:  Ayun, IRTC tayo, ha?
+[155.00s -> 157.00s] SPEAKER 3:  IRTC tayo.
+[157.00s -> 158.00s] SPEAKER 3:  Fifth floor?
+[158.00s -> 160.00s] SPEAKER 3:  Kung hindi niyo paalam yung IRTC sa fifth floor, yan.
+[160.00s -> 162.00s] SPEAKER 3:  So, IRTC.
+[162.00s -> 165.00s] SPEAKER 3:  Tapos yung conference hall ay nasa fifth floor.
+[165.00s -> 167.00s] SPEAKER 3:  Bawal gumamit ng elevator.
+[167.00s -> 169.00s] SPEAKER 3:  Nakalagay doon ako pa skill kahit...
+[169.00s -> 171.00s] SPEAKER 3:  ...ano naman yun, sa school naman yun.
+[171.00s -> 173.00s] SPEAKER 3:  Bawal gumamit ng elevator.
+[173.00s -> 175.00s] SPEAKER 3:  So wakit talaga tayo, fifth floor.
+[175.00s -> 177.00s] SPEAKER 3:  And...
+[177.00s -> 179.00s] SPEAKER 3:  Ayun.
+[179.00s -> 181.00s] SPEAKER 3:  So ang...
+[181.00s -> 183.00s] SPEAKER 3:  ...call time natin tomorrow...
+[183.00s -> 185.00s] SPEAKER 3:  ...ay sa...
+[185.00s -> 187.00s] SPEAKER 0:  ...April 2...
+[187.00s -> 189.00s] SPEAKER 3:  ...mas maaga, 7.
+[189.00s -> 191.00s] SPEAKER 3:  Ganun kasi...
+[191.00s -> 193.00s] SPEAKER 3:  ...para maano ang lahat.
+[193.00s -> 195.00s] SPEAKER 3:  And then...
+[195.00s -> 197.00s] SPEAKER 3:  ...in lang.
+[197.00s -> 199.00s] SPEAKER 3:  Ang naman, sa updates.
+[199.00s -> 201.00s] UNKNOWN:  Okay.
+[201.00s -> 203.00s] SPEAKER 0:  Ano, dito na tayo?
+[205.00s -> 207.00s] SPEAKER 3:  Dito?
+[207.00s -> 209.00s] SPEAKER 3:  Okay, share screen ka na.
+[209.00s -> 211.00s] SPEAKER 3:  Ayun, nakashare ka na.
+[211.00s -> 213.00s] SPEAKER 3:  Keri na, keri na.
+[213.00s -> 215.00s] SPEAKER 1:  Ayun, dito muna tayo.
+[215.00s -> 217.00s] SPEAKER 1:  Ayun.
+[217.00s -> 219.00s] SPEAKER 1:  So, dito...
+[219.00s -> 221.00s] SPEAKER 1:  ...meron tayong...
+[221.00s -> 223.00s] SPEAKER 1:  ...potent stations ulit.
+[223.00s -> 225.00s] SPEAKER 1:  Na-discuss naman na sa inyo ni Paolo...
+[225.00s -> 227.00s] SPEAKER 1:  ...tent stations na yun, last time.
+[227.00s -> 229.00s] SPEAKER 1:  And wag nyo na masyadong pansinan yan...
+[229.00s -> 231.00s] SPEAKER 1:  ...yung mga needs.
+[231.00s -> 233.00s] SPEAKER 1:  Nakaayos lang siya.
+[233.00s -> 235.00s] SPEAKER 1:  Ayun. So sa facilitators...
+[235.00s -> 237.00s] SPEAKER 1:  ...nag-assign na kami...
+[237.00s -> 239.00s] SPEAKER 1:  ...actually. Kailangan lang namin ng...
+[239.00s -> 241.00s] SPEAKER 1:  ...nang...
+[241.00s -> 243.00s] SPEAKER 1:  ...approval nyo.
+[243.00s -> 245.00s] SPEAKER 1:  Nang approval nyo, if carry.
+[245.00s -> 247.00s] SPEAKER 1:  So sa programming challenge...
+[247.00s -> 249.00s] SPEAKER 1:  ...si Rogoto, former officer siya.
+[249.00s -> 251.00s] SPEAKER 1:  Tapos si...
+[251.00s -> 253.00s] SPEAKER 1:  ...sa Tech Trivia...
+[253.00s -> 255.00s] SPEAKER 1:  ...sa ba si Fabre?
+[255.00s -> 257.00s] SPEAKER 1:  Carry ba, Fabre, if ever?
+[257.00s -> 259.00s] SPEAKER 1:  Ikaw yung i-assign namin sa facilitator.
+[259.00s -> 261.00s] SPEAKER 1:  Yung facilitator...
+[261.00s -> 263.00s] SPEAKER 1:  ...sya yung...
+[263.00s -> 265.00s] SPEAKER 1:  ...naka-assign doon sa mismong station.
+[265.00s -> 267.00s] SPEAKER 1:  A-a.
+[267.00s -> 269.00s] SPEAKER 3:  Bali, ang mga hihari kasi...
+[269.00s -> 271.00s] SPEAKER 3:  ...merong...
+[271.00s -> 273.00s] SPEAKER 3:  ...pupunta sa iyong mga teams.
+[273.00s -> 275.00s] SPEAKER 2:  And then...
+[275.00s -> 277.00s] SPEAKER 3:  ...bibigay mo lang yung printed na instruction.
+[277.00s -> 279.00s] SPEAKER 3:  So hindi ka na masyadong mag-explain.
+[279.00s -> 281.00s] SPEAKER 3:  Kasi gusto natin na...
+[281.00s -> 283.00s] SPEAKER 3:  ...col yung explanation sa lahat.
+[283.00s -> 285.00s] SPEAKER 3:  Ipiprint lang natin ng instructions...
+[285.00s -> 287.00s] SPEAKER 3:  ...tos bigay mo lang sa kanila.
+[287.00s -> 289.00s] SPEAKER 3:  And then dito sa challenge mo...
+[289.00s -> 291.00s] SPEAKER 3:  ...Tech Trivia. So may mga questions...
+[291.00s -> 293.00s] SPEAKER 3:  ...about tech, about programming and all.
+[293.00s -> 295.00s] SPEAKER 3:  And then kailangan nilang sekutan yun.
+[295.00s -> 297.00s] SPEAKER 3:  So ikaw yung mag...
+[297.00s -> 299.00s] SPEAKER 3:  ...ikaw yung maglalagay ng score...
+[299.00s -> 301.00s] SPEAKER 3:  ...don sa scoreboard, score nila...
+[301.00s -> 303.00s] SPEAKER 3:  ...pung ilan yung tamang sagot and all.
+[303.00s -> 305.00s] SPEAKER 3:  And then check mo lang yun siyempre...
+[305.00s -> 307.00s] SPEAKER 3:  ...yung mga...
+[307.00s -> 309.00s] SPEAKER 3:  ...pandaraya and all. Ganun.
+[309.00s -> 311.00s] SPEAKER 3:  Basta ikaw tataw. And...
+[311.00s -> 313.00s] SPEAKER 3:  ...if mayroon naman silang kuna-requestions na...
+[313.00s -> 315.00s] SPEAKER 3:  ...pwede namang sagotin na hindi magiging...
+[315.00s -> 317.00s] SPEAKER 3:  ...unfair sa other teams...
+[317.00s -> 319.00s] SPEAKER 3:  ...then pwede mo namang sagotin.
+[319.00s -> 321.00s] SPEAKER 3:  Ganun lang siya.
+[323.00s -> 325.00s] SPEAKER 0:  Okay, nag-hard siya.
+[325.00s -> 327.00s] SPEAKER 0:  Nag-hard siya.
+[329.00s -> 331.00s] SPEAKER 4:  Rita ko ako kasi...
+[331.00s -> 333.00s] SPEAKER 4:  ...tuesday ko kasi...
+[333.00s -> 335.00s] SPEAKER 4:  ...ang...
+[335.00s -> 337.00s] SPEAKER 4:  ...sa poll kasi diba, 8 to 1...
+[337.00s -> 339.00s] SPEAKER 4:  ...yung nakalagay ng availability.
+[339.00s -> 341.00s] SPEAKER 4:  Ang class kasi...
+[341.00s -> 343.00s] SPEAKER 4:  ...may 12 p.m. akong...
+[343.00s -> 345.00s] SPEAKER 4:  ...class eh. So...
+[345.00s -> 347.00s] SPEAKER 4:  ...ang availability ko lang talaga is 8...
+[347.00s -> 349.00s] SPEAKER 4:  ...to 11...
+[349.00s -> 351.00s] SPEAKER 4:  ...to 12 p.m.
+[351.00s -> 353.00s] SPEAKER 3:  Kasi hanggang 11 lang talaga yun.
+[353.00s -> 355.00s] SPEAKER 3:  Kasi hanggang 11 lang talaga yun.
+[355.00s -> 357.00s] SPEAKER 3:  Yung 11 to 12 ay...
+[357.00s -> 359.00s] SPEAKER 3:  ...ano na siya?
+[359.00s -> 361.00s] SPEAKER 3:  Announcing na.
+[361.00s -> 363.00s] SPEAKER 4:  Okay, okay.
+[363.00s -> 365.00s] SPEAKER 4:  Okay lang. Kadi naman to.
+[365.00s -> 367.00s] SPEAKER 4:  Okay, ayun.
+[367.00s -> 369.00s] SPEAKER 1:  Ayun. So...
+[369.00s -> 371.00s] SPEAKER 1:  ...next yung sa Find the Error...
+[371.00s -> 373.00s] SPEAKER 1:  ...si Pawan na diyan. Alam niya na yan.
+[373.00s -> 375.00s] SPEAKER 1:  Eto, yung sa CyberSec naman...
+[375.00s -> 377.00s] SPEAKER 1:  ...si Elle. Nandito ba si Elle?
+[377.00s -> 379.00s] SPEAKER 1:  Ayun, nandiyan si Elle.
+[379.00s -> 381.00s] SPEAKER 1:  Hello, Elle.
+[381.00s -> 383.00s] SPEAKER 1:  Pero ba? Dito sa...
+[383.00s -> 385.00s] SPEAKER 3:  Vale, ano lang siya?
+[385.00s -> 387.00s] SPEAKER 3:  Existing ano na siya eh?
+[387.00s -> 389.00s] SPEAKER 3:  Existing game. Software na ito, Elle.
+[389.00s -> 391.00s] SPEAKER 3:  Tapos...
+[391.00s -> 393.00s] SPEAKER 3:  ...parang gagawin lang nila.
+[393.00s -> 395.00s] SPEAKER 3:  E-mails doon.
+[395.00s -> 397.00s] SPEAKER 3:  Tapos kailangan lang nilang hanap.
+[397.00s -> 399.00s] SPEAKER 3:  Ay, ba't ko sinasabi ang challenge?
+[399.00s -> 401.00s] SPEAKER 3:  Extain ko na lang sa iyo.
+[401.00s -> 403.00s] SPEAKER 3:  Basta ano lang siya? Sa laptop na lang.
+[403.00s -> 405.00s] SPEAKER 3:  Sa laptop siya, tapos...
+[405.00s -> 407.00s] SPEAKER 3:  ...may pipindot...
+[407.00s -> 409.00s] SPEAKER 3:  ...parang mayroon lang silang hanapin kung bakit naging...
+[409.00s -> 411.00s] SPEAKER 3:  ...scam or fraud...
+[411.00s -> 413.00s] SPEAKER 3:  ...or phishing...
+[413.00s -> 415.00s] SPEAKER 3:  ...yung isang email.
+[415.00s -> 417.00s] SPEAKER 3:  Ganun lang ka.
+[417.00s -> 419.00s] SPEAKER 3:  Pabantayan mo lang dito.
+[419.00s -> 421.00s] SPEAKER 3:  Check ng correct answers and all.
+[422.00s -> 424.00s] SPEAKER 1:  Basta after nila matapos yun...
+[424.00s -> 426.00s] SPEAKER 1:  ...may score na ka agad.
+[426.00s -> 428.00s] SPEAKER 1:  So hindi ka na mag-compute and all pa.
+[428.00s -> 430.00s] SPEAKER 1:  Lagay mo lang yung score nila.
+[430.00s -> 432.00s] SPEAKER 1:  Ayun, nagheart siya, Mi.
+[432.00s -> 434.00s] SPEAKER 1:  Nagheart siya.
+[434.00s -> 436.00s] SPEAKER 1:  Ayun.
+[436.00s -> 438.00s] SPEAKER 1:  Ayun, so carry daw.
+[438.00s -> 440.00s] SPEAKER 1:  Ayun, so next. Ayun.
+[440.00s -> 442.00s] SPEAKER 1:  Sa ito...
+[442.00s -> 444.00s] SPEAKER 1:  Ano to?
+[444.00s -> 446.00s] SPEAKER 1:  Paano to?
+[446.00s -> 448.00s] SPEAKER 1:  Sino yung nalagay ko dyan?
+[448.00s -> 450.00s] SPEAKER 1:  Or later na to?
+[451.00s -> 453.00s] SPEAKER 1:  Okay, sige. Later na muna yan.
+[453.00s -> 455.00s] SPEAKER 1:  So sa cabling, sa MJ, naka-assign...
+[455.00s -> 457.00s] SPEAKER 1:  ...alam na ni MJ yan.
+[457.00s -> 459.00s] SPEAKER 1:  Tapos sa sponsor natin...
+[459.00s -> 461.00s] SPEAKER 1:  ...andito ba si Alexis?
+[461.00s -> 463.00s] SPEAKER 1:  Wala.
+[463.00s -> 465.00s] SPEAKER 1:  Akinig ko wala.
+[465.00s -> 467.00s] SPEAKER 1:  O nga, wala siya.
+[467.00s -> 469.00s] SPEAKER 1:  Later na yan.
+[469.00s -> 471.00s] SPEAKER 1:  Sa Think Digital, si Chuck...
+[471.00s -> 473.00s] SPEAKER 1:  ...yung nilagay namin.
+[473.00s -> 475.00s] SPEAKER 1:  Tapos sa ASLEX, si JD.
+[475.00s -> 477.00s] SPEAKER 1:  Nandito ba si JD?
+[477.00s -> 479.00s] SPEAKER 1:  John Bill.
+[479.00s -> 481.00s] SPEAKER 1:  First time that I'm asking...
+[481.00s -> 483.00s] SPEAKER 3:  John Bill.
+[483.00s -> 485.00s] SPEAKER 3:  Wala si John Bill.
+[485.00s -> 487.00s] SPEAKER 1:  Wala-wala siya.
+[487.00s -> 489.00s] SPEAKER 1:  Aon, chat na lang natin, siguro.
+[489.00s -> 491.00s] SPEAKER 1:  Tapos, ayan.
+[491.00s -> 493.00s] SPEAKER 1:  Sa last, is ako.
+[493.00s -> 495.00s] SPEAKER 1:  So...
+[495.00s -> 497.00s] SPEAKER 1:  Ayun, so far, yung mga magbabantay...
+[497.00s -> 499.00s] SPEAKER 1:  ...sa mismong booth, no?
+[499.00s -> 501.00s] SPEAKER 1:  So, next, siguro.
+[501.00s -> 503.00s] SPEAKER 1:  Bali ang nilagay lang namin siyan...
+[503.00s -> 505.00s] SPEAKER 3:  ...is yung mga nag-confirm ng...
+[505.00s -> 507.00s] SPEAKER 3:  ...8 to 1.
+[507.00s -> 509.00s] SPEAKER 1:  Ayan yung nilagay namin.
+[509.00s -> 511.00s] SPEAKER 1:  Tapos...
+[511.00s -> 513.00s] SPEAKER 1:  ...tano, next...
+[513.00s -> 515.00s] SPEAKER 1:  ...wait...
+[515.00s -> 517.00s] SPEAKER 1:  ...tangaligot ang ano pa nag-meetin.
+[517.00s -> 519.00s] SPEAKER 1:  Eto ba?
+[519.00s -> 521.00s] SPEAKER 1:  Other needs?
+[521.00s -> 523.00s] SPEAKER 1:  Ayun, so nilutang...
+[523.00s -> 525.00s] SPEAKER 1:  ...eto?
+[525.00s -> 527.00s] SPEAKER 1:  Bali, okay lang.
+[527.00s -> 529.00s] SPEAKER 3:  Kakagaling lang kasi ni John sa...
+[529.00s -> 531.00s] SPEAKER 3:  ...hospital.
+[531.00s -> 533.00s] UNKNOWN:  Pagbosan ni John na siya.
+[533.00s -> 535.00s] SPEAKER 3:  Bali...
+[535.00s -> 537.00s] SPEAKER 3:  ...dito, kailangan namin ng tulong nyo...
+[537.00s -> 539.00s] SPEAKER 3:  ...para sa mga dadalin.
+[539.00s -> 541.00s] SPEAKER 3:  Okay, bali ang mangingyari...
+[541.00s -> 543.00s] SPEAKER 3:  ...yung preparation kasi natin, which is...
+[543.00s -> 545.00s] SPEAKER 3:  ...April 1, diba?
+[545.00s -> 547.00s] SPEAKER 3:  April 2 ang event, and then Monday...
+[547.00s -> 549.00s] SPEAKER 3:  ...April 1, may pasok na iyon.
+[549.00s -> 551.00s] SPEAKER 3:  Tapos nga dito kami na mga...
+[551.00s -> 553.00s] SPEAKER 3:  ...may pasok ng April 1.
+[553.00s -> 555.00s] SPEAKER 3:  Ganyan.
+[555.00s -> 557.00s] SPEAKER 3:  And willing pumasok.
+[557.00s -> 559.00s] SPEAKER 3:  And willing pumasok para tumulong sa...
+[559.00s -> 561.00s] SPEAKER 3:  ...preparation ng April 1.
+[565.00s -> 567.00s] SPEAKER 0:  Monday, that's Monday.
+[569.00s -> 571.00s] SPEAKER 0:  Hindi pa nilalaw yung oras kung...
+[571.00s -> 573.00s] SPEAKER 0:  ...what time ni Kevin.
+[573.00s -> 575.00s] SPEAKER 3:  Mga 10 to...
+[575.00s -> 577.00s] SPEAKER 3:  Ay, shit.
+[577.00s -> 579.00s] SPEAKER 0:  Hindi nga, Kevin.
+[579.00s -> 581.00s] SPEAKER 3:  Paano?
+[581.00s -> 583.00s] SPEAKER 3:  Perfect. Sige, kanta kasi ang chick, ha?
+[583.00s -> 585.00s] SPEAKER 3:  Bali...
+[587.00s -> 589.00s] SPEAKER 3:  Sige, sige.
+[589.00s -> 591.00s] SPEAKER 3:  Pasta may nung mga papasok sa inyo ng Monday, ha?
+[591.00s -> 593.00s] SPEAKER 3:  So, ang nangyari kasi...
+[593.00s -> 595.00s] SPEAKER 3:  ...is diba April 2 ang event natin.
+[595.00s -> 597.00s] SPEAKER 3:  Ngayon...
+[597.00s -> 599.00s] SPEAKER 3:  ...confident na-confident na kami ni Jen...
+[599.00s -> 601.00s] SPEAKER 3:  ...na, okay na, April 1...
+[601.00s -> 603.00s] SPEAKER 3:  ...makakapag-prepare na tayo...
+[603.00s -> 605.00s] SPEAKER 3:  ...sa IITC.
+[605.00s -> 607.00s] SPEAKER 3:  Makapag-diron tayo.
+[607.00s -> 609.00s] SPEAKER 3:  Oo, makapag-diron tayo.
+[609.00s -> 611.00s] SPEAKER 3:  Pwede tayong gumanggit ang IITC...
+[611.00s -> 613.00s] SPEAKER 3:  ...from 8 to 5.
+[613.00s -> 615.00s] SPEAKER 3:  Ganyan, sa April 1.
+[615.00s -> 617.00s] SPEAKER 3:  Tapos kahapon...
+[617.00s -> 619.00s] SPEAKER 3:  ...meron biglaan...
+[619.00s -> 621.00s] SPEAKER 3:  ...na...
+[621.00s -> 623.00s] SPEAKER 3:  ...isang...
+[623.00s -> 625.00s] SPEAKER 3:  ...ano, isang...
+[625.00s -> 627.00s] SPEAKER 3:  ...CSC...
+[627.00s -> 629.00s] SPEAKER 3:  ...Student Council...
+[629.00s -> 631.00s] SPEAKER 3:  ...na nagbook ng April 1.
+[631.00s -> 633.00s] SPEAKER 3:  Ngayon...
+[633.00s -> 635.00s] SPEAKER 0:  Ang malala...
+[635.00s -> 637.00s] SPEAKER 3:  Ang malala, 8 to 5.
+[637.00s -> 639.00s] SPEAKER 3:  Ang chicken na event sa kanila sa 8 to 5.
+[639.00s -> 641.00s] SPEAKER 3:  So, makakapag-prepare lang
+[641.00s -> 643.00s] SPEAKER 3:  tayo...
+[643.00s -> 645.00s] SPEAKER 0:  ...na...
+[645.00s -> 647.00s] SPEAKER 3:  Oo, after nila.
+[648.00s -> 650.00s] SPEAKER 3:  Ngayon, ang plan namin...
+[650.00s -> 652.00s] SPEAKER 3:  ...is...
+[652.00s -> 654.00s] SPEAKER 3:  ...ano muna...
+[654.00s -> 656.00s] SPEAKER 3:  ...gagawin natin...
+[656.00s -> 658.00s] SPEAKER 3:  ...lahat ng kailangan...
+[658.00s -> 660.00s] SPEAKER 3:  ...lahat ng preparation, dry run and all...
+[660.00s -> 662.00s] SPEAKER 3:  ...pati yung mga...
+[662.00s -> 664.00s] SPEAKER 3:  ...props...
+[664.00s -> 666.00s] SPEAKER 3:  ...yung mga gupit-gupit, ganyan...
+[666.00s -> 668.00s] SPEAKER 3:  ...yung mga ididikit and all...
+[668.00s -> 670.00s] SPEAKER 3:  ...gagawin na natin sa April 1...
+[670.00s -> 672.00s] SPEAKER 3:  ...sa accreditation room...
+[672.00s -> 674.00s] SPEAKER 3:  ...sa may COS.
+[674.00s -> 676.00s] SPEAKER 1:  Ano na nag-chat mo si Mami?
+[676.00s -> 678.00s] SPEAKER 1:  ...papahiram niya lang doon sa atin...
+[678.00s -> 680.00s] SPEAKER 1:  ...yung isang room.
+[680.00s -> 682.00s] SPEAKER 1:  Kasi doon hindi doon...
+[682.00s -> 684.00s] SPEAKER 1:  ...carry sa accre nyan.
+[684.00s -> 686.00s] SPEAKER 1:  ...kasi madaming gamit.
+[686.00s -> 688.00s] SPEAKER 1:  So, carry doon kahit mas madami.
+[688.00s -> 690.00s] SPEAKER 1:  ...ganon.
+[690.00s -> 692.00s] SPEAKER 1:  Isang room ba added yung ipapahiram.
+[692.00s -> 694.00s] SPEAKER 1:  O yan kala, isang room.
+[694.00s -> 696.00s] SPEAKER 3:  Papahiramin tayo ng isang room...
+[696.00s -> 698.00s] SPEAKER 3:  ...dun tayo magprepare-pare ng lahat ng...
+[698.00s -> 700.00s] SPEAKER 3:  ...dry run...
+[700.00s -> 702.00s] SPEAKER 3:  ...ganiyan and all.
+[702.00s -> 704.00s] SPEAKER 3:  And then...
+[704.00s -> 733.00s] SPEAKER 3:  O'y baka parang sa atin yung laba, ito na pangainit doon. Tapos, valley from 10 onwards, doon tayong gagawa ka ng ano, ng lahat ng kailangan, and then from 5 after gamitin ng IRTC, 5 to 7, doon pa lang tayong makapagkabit talaga sa IRTC.
+[733.00s -> 746.00s] SPEAKER 3:  O'y baka, once na punta natin doon, is ano na, is gawa. As in, poko ka ng gawa. Like lahat na ilidikan and all. Kailangan mo na bilis. Ganun.
+[746.00s -> 763.00s] SPEAKER 3:  Valley, ayon. Sana makatolong kayo sa April 1. Kahit ano lang, kahit yung preparation lang. Basta, chat na lang namin kung saan yung room, sa COS, kung may ano. Valley, ito yung mga kailangan nating dalin by April 1.
+[763.00s -> 780.00s] SPEAKER 3:  And April 2 na din. Ngayon. So, kailangan kasi namin ng ano, ng 9, oo, at least 9 laptops, or 8. 9 ba? Aka sa technicals ba?
+[780.00s -> 793.00s] SPEAKER 3:  Oo. 8 yung sa mismong stations, tapos sinama ko yung pang 9, yung sa tech ops, yung gagamitin nila. Kaya 9.
+[793.00s -> 807.00s] SPEAKER 3:  Okay. Valley, sa mga pupunta ng April 1 and 2, or April 2, sino ang willing magpahiram ng laptop?
+[808.00s -> 809.00s] SPEAKER 0:  Ano ba?
+[809.00s -> 824.00s] SPEAKER 0:  Yung mga tatakos sa stations. Tapos na lang ng kamay. Like kayo din naman gagamit, especially kapag kayo. For example, kayo yung mga station, pwedeng magpahiram ng laptop. Hindi naman natin lalagyan yung software na ano, ano lang yun, yung mga quizzes lang, ganyan. Online na siya.
+[824.00s -> 826.00s] SPEAKER 3:  Yung virus pa siya.
+[826.00s -> 832.00s] SPEAKER 1:  Hindi natin lalagyan ng virus. Pati charger, pati charger, with charger.
+[832.00s -> 835.00s] SPEAKER 1:  Ano, 6 laptops pa ang kulang.
+[835.00s -> 839.00s] SPEAKER 1:  Ayun na, naiyak ako. Naiyak ako. More, more.
+[839.00s -> 841.00s] SPEAKER 1:  Lilis ako na kayo.
+[844.00s -> 850.00s] SPEAKER 0:  Ayun. Tatlo pa, tatlo pa. Pero tada.
+[854.00s -> 856.00s] UNKNOWN:  Oo, manwet.
+[857.00s -> 863.00s] SPEAKER 3:  If nakatao kayo sa station, kayo din yung gagamit ng laptop na yun. Kaya sure na safe.
+[863.00s -> 865.00s] SPEAKER 3:  1, 2, 3, 4.
+[865.00s -> 867.00s] SPEAKER 3:  Ila na yan?
+[867.00s -> 870.00s] SPEAKER 3:  1, 2, 3, 4, 5, 6, 7.
+[870.00s -> 875.00s] SPEAKER 1:  Baka si Chad magdadala na rin. Wala yata dito si Chad eh.
+[876.00s -> 878.00s] UNKNOWN:  Pa.
+[880.00s -> 882.00s] UNKNOWN:  Oo, feeling ko magdadala na yun si Chad.
+[882.00s -> 884.00s] SPEAKER 0:  Insta na natin.
+[884.00s -> 886.00s] SPEAKER 0:  Insta na natin.
+[886.00s -> 888.00s] SPEAKER 0:  Ano ba station nuling ni Chad?
+[888.00s -> 890.00s] SPEAKER 0:  Ano, digital.
+[890.00s -> 892.00s] SPEAKER 3:  Oo, ayun.
+[892.00s -> 894.00s] SPEAKER 3:  Oo, isa na lang.
+[894.00s -> 896.00s] SPEAKER 1:  Bala na sinu yung isa. Sinu ko yung iso?
+[896.00s -> 900.00s] SPEAKER 3:  Si Arsenic. Ay, si Arsenic lang.
+[900.00s -> 902.00s] SPEAKER 1:  Dito. Pero magdadala yun.
+[902.00s -> 904.00s] SPEAKER 3:  Baka MacBook yun eh.
+[904.00s -> 906.00s] SPEAKER 3:  Sige, bago muna ilagay. Ayan.
+[906.00s -> 910.00s] SPEAKER 3:  So, thank you sa mga...
+[910.00s -> 912.00s] SPEAKER 3:  Thank you.
+[912.00s -> 914.00s] SPEAKER 3:  Thank you so much.
+[914.00s -> 916.00s] SPEAKER 3:  And next is,
+[916.00s -> 920.00s] SPEAKER 3:  kailangan natin ng extension.
+[920.00s -> 922.00s] SPEAKER 3:  Extension.
+[922.00s -> 924.00s] SPEAKER 3:  Kasi in case na malabat yung laptop niyo,
+[924.00s -> 928.00s] SPEAKER 3:  kailangan natin ng extension.
+[928.00s -> 930.00s] SPEAKER 3:  Malabat yung laptop niyo,
+[930.00s -> 934.00s] SPEAKER 3:  kailangan natin na mapagsasaksakan.
+[934.00s -> 936.00s] SPEAKER 3:  So,
+[936.00s -> 938.00s] SPEAKER 3:  mayroon ako dito extension dalawa.
+[938.00s -> 940.00s] SPEAKER 3:  Oo, Jen, mayroon ka.
+[940.00s -> 942.00s] SPEAKER 4:  MJ.
+[942.00s -> 944.00s] SPEAKER 4:  Hindi ko pa sure, pero check ko.
+[944.00s -> 946.00s] SPEAKER 4:  Kaya di ko pa nilang nago...
+[946.00s -> 948.00s] SPEAKER 3:  Exterminated lang naman yung Anin, pero...
+[948.00s -> 950.00s] SPEAKER 3:  Pero, sure.
+[950.00s -> 952.00s] SPEAKER 3:  Masarang mas marami. Oo.
+[952.00s -> 954.00s] SPEAKER 3:  Sino ang, ano,
+[954.00s -> 956.00s] SPEAKER 3:  pwedeng magdala ng extension?
+[956.00s -> 958.00s] SPEAKER 3:  One.
+[958.00s -> 960.00s] SPEAKER 3:  Oo, si Ron. Si Ron na.
+[960.00s -> 962.00s] SPEAKER 1:  Ilan, tatlo?
+[964.00s -> 966.00s] SPEAKER 1:  Isa lang.
+[966.00s -> 968.00s] SPEAKER 0:  Ah, isa lang.
+[970.00s -> 972.00s] SPEAKER 0:  Ron, one.
+[974.00s -> 976.00s] SPEAKER 0:  Part isa pa, guys.
+[976.00s -> 978.00s] SPEAKER 0:  Ito pa.
+[978.00s -> 980.00s] SPEAKER 0:  Tried ko sa akin.
+[980.00s -> 982.00s] SPEAKER 0:  Hindi ko meron.
+[986.00s -> 988.00s] UNKNOWN:  Hiyo, wala na, P.
+[988.00s -> 1002.00s] SPEAKER 0:  Huwag muna siya.
+[1002.00s -> 1004.00s] SPEAKER 0:  Check ba nila yung bahay nila kung
+[1004.00s -> 1006.00s] SPEAKER 0:  meron, siguro.
+[1008.00s -> 1010.00s] SPEAKER 1:  Basta if meron kayo, guys,
+[1010.00s -> 1012.00s] SPEAKER 1:  eh, hindi pa kayo sure ngayon.
+[1012.00s -> 1014.00s] SPEAKER 1:  Pag meron kayo,
+[1014.00s -> 1019.00s] SPEAKER 1:  And if puwede, pahiram.
+[1019.00s -> 1024.00s] SPEAKER 2:  If ano naman, carry lang.
+[1024.00s -> 1030.00s] SPEAKER 1:  Kasi yun nga, pansin nyo, madaming laptop yung kailangan natin.
+[1030.00s -> 1037.00s] SPEAKER 1:  So in case na mga malobot kayo, and yun nga, istation siya.
+[1038.00s -> 1041.00s] SPEAKER 1:  Malayo-layo yung ibang...
+[1041.00s -> 1043.00s] SPEAKER 1:  Laptops with charger, kailangan.
+[1043.00s -> 1045.00s] SPEAKER 3:  Laptops with charger.
+[1051.00s -> 1053.00s] UNKNOWN:  Ano next?
+[1053.00s -> 1056.00s] UNKNOWN:  Mouse ba? Siguro wag na.
+[1056.00s -> 1058.00s] SPEAKER 1:  Wag na?
+[1058.00s -> 1062.00s] SPEAKER 1:  Sige be, pag set-up-in kita.
+[1062.00s -> 1064.00s] SPEAKER 3:  Salad lang. Okay, laptops.
+[1064.00s -> 1067.00s] SPEAKER 3:  Tapos...
+[1067.00s -> 1070.00s] UNKNOWN:  Ayun, next. Go muna, next.
+[1070.00s -> 1072.00s] UNKNOWN:  Oh, next.
+[1072.00s -> 1074.00s] SPEAKER 1:  Seasource sa mga pupunta po.
+[1074.00s -> 1075.00s] SPEAKER 1:  Nang April 1.
+[1075.00s -> 1077.00s] SPEAKER 1:  Ang kina kong halaga.
+[1077.00s -> 1079.00s] SPEAKER 1:  Nang April 1. Seasource.
+[1079.00s -> 1080.00s] SPEAKER 3:  Seasource.
+[1080.00s -> 1081.00s] SPEAKER 1:  Okay.
+[1081.00s -> 1085.00s] SPEAKER 1:  Lili sa bababan natin. Pero kung pupunta kayo, please, dala kayo. Don't forget.
+[1085.00s -> 1088.00s] SPEAKER 3:  Yeah. Mahalaga yan, guys.
+[1088.00s -> 1090.00s] SPEAKER 1:  Seasource.
+[1090.00s -> 1092.00s] SPEAKER 3:  And then...
+[1092.00s -> 1094.00s] UNKNOWN:  Tape tayo na yan.
+[1094.00s -> 1095.00s] SPEAKER 3:  Wait lang.
+[1095.00s -> 1097.00s] SPEAKER 3:  Ay, alam ko. Merong officer...
+[1097.00s -> 1099.00s] SPEAKER 3:  Madaming tapes na na-haze, yun.
+[1099.00s -> 1103.00s] SPEAKER 3:  Di ba may officer na madaming tapes?
+[1103.00s -> 1108.00s] SPEAKER 3:  Nung foundation tayo, meron akong mga na-owing tapes.
+[1108.00s -> 1110.00s] SPEAKER 1:  Anas ayun na.
+[1110.00s -> 1114.00s] SPEAKER 1:  Meron akong masking tapes. So, one, pow.
+[1114.00s -> 1115.00s] SPEAKER 1:  Ah, sige.
+[1115.00s -> 1120.00s] SPEAKER 1:  Dito ba ang tape na ito? Is this packing tape?
+[1120.00s -> 1122.00s] SPEAKER 1:  Oo, kasi magka-ano ka ng...
+[1122.00s -> 1124.00s] SPEAKER 0:  Diba?
+[1126.00s -> 1128.00s] SPEAKER 0:  Ano ba?
+[1128.00s -> 1130.00s] SPEAKER 0:  Okay, sige. Kung ano kayo, lala kayo.
+[1130.00s -> 1132.00s] SPEAKER 0:  Tape, masking, tape.
+[1132.00s -> 1134.00s] SPEAKER 3:  Or chat ka na lang dito.
+[1134.00s -> 1136.00s] SPEAKER 3:  Sinong taas kamay.
+[1136.00s -> 1138.00s] SPEAKER 3:  Tape, masking, tape.
+[1138.00s -> 1140.00s] SPEAKER 1:  Oo, nagdadalan.
+[1140.00s -> 1143.00s] SPEAKER 3:  April 1, yung pupunta din sa...
+[1143.00s -> 1145.00s] SPEAKER 3:  Para hindi na tayo bumili.
+[1145.00s -> 1147.00s] SPEAKER 3:  Salud.
+[1147.00s -> 1149.00s] SPEAKER 3:  And then, eto, next.
+[1149.00s -> 1151.00s] SPEAKER 3:  Staling straw.
+[1151.00s -> 1156.00s] UNKNOWN:  Wala na natira sa iyo last time.
+[1156.00s -> 1158.00s] SPEAKER 1:  Kasi kailangan palang mas marami.
+[1158.00s -> 1160.00s] SPEAKER 1:  Kailangan mas marami.
+[1160.00s -> 1162.00s] SPEAKER 3:  Hindi ko kailangan na natin bumili.
+[1162.00s -> 1163.00s] SPEAKER 3:  Pilig ka na lang.
+[1163.00s -> 1165.00s] SPEAKER 1:  Oo.
+[1165.00s -> 1166.00s] SPEAKER 3:  Yung ano na...
+[1166.00s -> 1167.00s] SPEAKER 3:  Lagay mo na...
+[1167.00s -> 1169.00s] SPEAKER 0:  ...saka yung maais yung kulay. Salud.
+[1169.00s -> 1170.00s] SPEAKER 0:  Salud.
+[1170.00s -> 1171.00s] SPEAKER 0:  O, ilagay mo na dyan.
+[1171.00s -> 1172.00s] SPEAKER 3:  Kulay green.
+[1172.00s -> 1174.00s] SPEAKER 0:  Ay, wait lang. Ilagay mo dun sa part na bibili.
+[1174.00s -> 1176.00s] SPEAKER 0:  Kulay green.
+[1178.00s -> 1179.00s] SPEAKER 0:  ...mabibili.
+[1179.00s -> 1181.00s] SPEAKER 0:  Saan?
+[1181.00s -> 1184.00s] UNKNOWN:  Nandas, sige ako na ito lima niyan.
+[1184.00s -> 1185.00s] SPEAKER 1:  Ayan.
+[1185.00s -> 1189.00s] SPEAKER 1:  So, ito, wag ninyo na sya masyadong pansinit.
+[1189.00s -> 1190.00s] SPEAKER 1:  Ache.
+[1190.00s -> 1192.00s] SPEAKER 1:  Hanapin pa namin yan ni Pau.
+[1192.00s -> 1195.00s] SPEAKER 1:  Ito din.
+[1195.00s -> 1196.00s] SPEAKER 0:  Ayan.
+[1196.00s -> 1200.00s] SPEAKER 0:  Ayan.
+[1200.00s -> 1202.00s] SPEAKER 0:  Stickers.
+[1202.00s -> 1203.00s] SPEAKER 0:  Eto na, bales.
+[1203.00s -> 1204.00s] SPEAKER 0:  Saka ba?
+[1204.00s -> 1206.00s] SPEAKER 1:  Eto ba titingin ka na nito tomorrow?
+[1206.00s -> 1208.00s] SPEAKER 1:  Eto pala, may tanong ako.
+[1208.00s -> 1210.00s] SPEAKER 3:  May picture ba tayo nito?
+[1210.00s -> 1212.00s] SPEAKER 3:  Wait lang, lemme send.
+[1212.00s -> 1214.00s] SPEAKER 3:  Umm...
+[1214.00s -> 1216.00s] UNKNOWN:  Kulgun stick.
+[1223.00s -> 1229.00s] UNKNOWN:  Kasi iniisip namin, ano yung pwedeng ipantayo dun sa mga stations number?
+[1229.00s -> 1235.00s] SPEAKER 1:  Diba, table sya taos iniisip namin, dalawang stick sa magkapilaan ng table.
+[1236.00s -> 1239.00s] SPEAKER 1:  Ano yung carry?
+[1239.00s -> 1242.00s] SPEAKER 1:  Though, papel lang naman yung isasabit natin.
+[1242.00s -> 1244.00s] SPEAKER 1:  Imean, yung ididikit, ilalagay.
+[1244.00s -> 1246.00s] SPEAKER 1:  Di naman mabigat.
+[1246.00s -> 1248.00s] SPEAKER 1:  So, carry lang yung mga stick.
+[1255.00s -> 1257.00s] SPEAKER 0:  Yung ganyang padpat.
+[1257.00s -> 1260.00s] SPEAKER 3:  Alam ko yung mga inaano yan sa halaman eh.
+[1260.00s -> 1262.00s] SPEAKER 3:  Yung sa halaman, ganyan.
+[1262.00s -> 1264.00s] SPEAKER 3:  Pero, huwag naman yung...
+[1266.00s -> 1268.00s] SPEAKER 0:  May buhang ispangin.
+[1269.00s -> 1271.00s] SPEAKER 3:  Baka may yung may itlog pa.
+[1271.00s -> 1273.00s] SPEAKER 3:  Yung may basag na itlog.
+[1274.00s -> 1276.00s] SPEAKER 1:  May lupa-lupa.
+[1276.00s -> 1278.00s] SPEAKER 1:  Kailangan ko paano mo yung ayaw?
+[1278.00s -> 1281.00s] SPEAKER 1:  Yung anong tawag din yung sa balloon?
+[1284.00s -> 1286.00s] SPEAKER 3:  Bining ko kasi maiklinga yung two feet.
+[1288.00s -> 1290.00s] SPEAKER 0:  Diba yung stick ng balloon?
+[1290.00s -> 1292.00s] SPEAKER 3:  Manit lang siya, two feet lang siya.
+[1292.00s -> 1294.00s] SPEAKER 3:  Pag nilagay mo dyan stick ng balloon,
+[1294.00s -> 1296.00s] SPEAKER 3:  kailangan pa tatlo.
+[1296.00s -> 1298.00s] SPEAKER 3:  Pero mura lang naman yun.
+[1298.00s -> 1300.00s] SPEAKER 3:  Kailang mataas kasi kailangan.
+[1300.00s -> 1302.00s] SPEAKER 3:  Etong padpat, ilang anong to?
+[1306.00s -> 1308.00s] SPEAKER 1:  Yung padpat, anong yung haba niya?
+[1310.00s -> 1312.00s] SPEAKER 3:  Baka meron kayong ganitong padpat,
+[1312.00s -> 1314.00s] SPEAKER 3:  siyend ko din sa chat.
+[1314.00s -> 1316.00s] SPEAKER 3:  Alam na nabibilan.
+[1316.00s -> 1318.00s] SPEAKER 3:  Yun ang tanong ko.
+[1318.00s -> 1320.00s] SPEAKER 3:  Yung kawayan.
+[1328.00s -> 1330.00s] SPEAKER 2:  Baka meron kayong alam na nabibilan?
+[1332.00s -> 1334.00s] UNKNOWN:  Yung manipis lang, ha?
+[1336.00s -> 1338.00s] UNKNOWN:  Meron?
+[1340.00s -> 1342.00s] SPEAKER 0:  Malati.
+[1344.00s -> 1346.00s] SPEAKER 0:  Okay, titikin na lang ako sa bayan.
+[1348.00s -> 1350.00s] SPEAKER 3:  Pero if meron kayong alam na nabibilan,
+[1350.00s -> 1354.00s] SPEAKER 3:  or other sa tingin yung pwedeng alternative.
+[1354.00s -> 1356.00s] SPEAKER 3:  Yung alternative na naisip,
+[1356.00s -> 1358.00s] SPEAKER 3:  sinabi saka na idriyan,
+[1358.00s -> 1360.00s] SPEAKER 3:  is balloon stick.
+[1360.00s -> 1362.00s] SPEAKER 3:  Kailang wobbly kasi siya.
+[1364.00s -> 1366.00s] SPEAKER 3:  Wobbly siya.
+[1366.00s -> 1368.00s] SPEAKER 3:  Kasi kapag isa, tsaka
+[1368.00s -> 1370.00s] SPEAKER 3:  medyo maiklinga kasi
+[1370.00s -> 1372.00s] SPEAKER 3:  two feet lang yung usual na
+[1372.00s -> 1374.00s] SPEAKER 3:  balloon stick, diba?
+[1374.00s -> 1376.00s] SPEAKER 3:  Ano niyo yung balloon stick?
+[1378.00s -> 1380.00s] SPEAKER 3:  Kaya ano namin na
+[1380.00s -> 1382.00s] SPEAKER 3:  sabilihan ng mga bunod.
+[1382.00s -> 1384.00s] SPEAKER 3:  What if samahan mo ko?
+[1384.00s -> 1386.00s] SPEAKER 3:  Sarata.
+[1386.00s -> 1388.00s] SPEAKER 3:  Bukas naman, sabihin mga bukas na
+[1388.00s -> 1390.00s] SPEAKER 3:  bayan bukas eh.
+[1390.00s -> 1392.00s] SPEAKER 3:  Next, continuous na yun.
+[1392.00s -> 1394.00s] SPEAKER 1:  Ayan, oh ikaw na yun ah.
+[1394.00s -> 1396.00s] SPEAKER 1:  Carry mo na yun.
+[1396.00s -> 1398.00s] SPEAKER 1:  Barbecue sticks for plugs.
+[1398.00s -> 1400.00s] SPEAKER 1:  Eh, titignan mo na rin ito.
+[1400.00s -> 1402.00s] SPEAKER 1:  O baka meron sa inyo?
+[1402.00s -> 1404.00s] SPEAKER 1:  Baka meron sa inyo ito?
+[1404.00s -> 1406.00s] SPEAKER 1:  Pao mo na nga yan, ipaw mo na.
+[1406.00s -> 1408.00s] SPEAKER 3:  Ano naman pa?
+[1408.00s -> 1410.00s] SPEAKER 1:  Lahat pa din na sa UAE.
+[1412.00s -> 1414.00s] SPEAKER 1:  Ato colored paper.
+[1414.00s -> 1416.00s] SPEAKER 1:  Baka may mga colored paper eh siya.
+[1416.00s -> 1418.00s] SPEAKER 1:  Bili na lang natin to.
+[1418.00s -> 1420.00s] SPEAKER 1:  Bili na natin yan.
+[1420.00s -> 1422.00s] SPEAKER 3:  Diyos ko naman.
+[1422.00s -> 1424.00s] SPEAKER 1:  Kailang inasa pa natin.
+[1424.00s -> 1426.00s] SPEAKER 1:  Ayan. So, ayan lang naman.
+[1426.00s -> 1428.00s] SPEAKER 1:  Or baka may mga
+[1428.00s -> 1430.00s] SPEAKER 1:  hindi pa natin na-anticipate
+[1430.00s -> 1432.00s] SPEAKER 1:  yung ibang kailangan.
+[1432.00s -> 1434.00s] SPEAKER 1:  Pero yan so far, yung mga
+[1434.00s -> 1436.00s] SPEAKER 1:  kailangan natin.
+[1436.00s -> 1438.00s] SPEAKER 1:  So, ano next?
+[1438.00s -> 1440.00s] SPEAKER 1:  Print?
+[1440.00s -> 1442.00s] SPEAKER 1:  Din-discuss mo ba sa kanit na to?
+[1442.00s -> 1444.00s] SPEAKER 3:  Discuss natin yung food. Baka meron sa
+[1444.00s -> 1446.00s] SPEAKER 3:  lang naisag na UAE.
+[1446.00s -> 1448.00s] SPEAKER 3:  Sa food kasi, meron
+[1450.00s -> 1452.00s] SPEAKER 3:  kailangan pakainin yung
+[1452.00s -> 1454.00s] SPEAKER 3:  judges.
+[1454.00s -> 1456.00s] SPEAKER 1:  Yung judges.
+[1456.00s -> 1458.00s] SPEAKER 3:  Yung staff ng
+[1458.00s -> 1460.00s] SPEAKER 3:  IRTC.
+[1460.00s -> 1462.00s] SPEAKER 3:  Ako.
+[1462.00s -> 1464.00s] SPEAKER 3:  Ay...
+[1464.00s -> 1466.00s] SPEAKER 3:  Ano? Ang ano lang namin
+[1466.00s -> 1468.00s] SPEAKER 3:  siyempre pak-lunch yan.
+[1468.00s -> 1470.00s] SPEAKER 3:  So naisip namin, bibili kami ng
+[1470.00s -> 1472.00s] SPEAKER 3:  Tupperware na maganda.
+[1472.00s -> 1474.00s] SPEAKER 3:  Bibili kami ng Tupperware na maganda.
+[1474.00s -> 1476.00s] SPEAKER 3:  Like yung mga bento box
+[1476.00s -> 1478.00s] SPEAKER 3:  ganun. Tapos
+[1478.00s -> 1480.00s] SPEAKER 3:  yung food sa
+[1480.00s -> 1482.00s] SPEAKER 3:  kalindaria.
+[1482.00s -> 1484.00s] SPEAKER 3:  Sa kalindaria. And then, isang
+[1484.00s -> 1486.00s] SPEAKER 3:  gulay. Syempre yung mga kalindaria.
+[1486.00s -> 1488.00s] SPEAKER 3:  Yung sa daddy's. Masarap yung ano doon eh.
+[1488.00s -> 1490.00s] SPEAKER 3:  Sa shawl. Tapos
+[1490.00s -> 1492.00s] SPEAKER 3:  Oh ayun. One meat,
+[1492.00s -> 1494.00s] SPEAKER 3:  one rice, one gulay,
+[1494.00s -> 1496.00s] SPEAKER 3:  tapos with water. Okay na yun sa kalila.
+[1496.00s -> 1498.00s] SPEAKER 3:  So mga anu yun, anticipate
+[1498.00s -> 1500.00s] SPEAKER 3:  natin. Estimate natin
+[1500.00s -> 1502.00s] SPEAKER 3:  mga P80.
+[1502.00s -> 1504.00s] SPEAKER 3:  Kasi sa magano tayo, Jollibee na
+[1504.00s -> 1506.00s] SPEAKER 3:  isang manok lang.
+[1506.00s -> 1508.00s] SPEAKER 3:  Or, okay, other way. Baka meron
+[1508.00s -> 1510.00s] SPEAKER 3:  kayong nabibili na pak-lunch na mismo.
+[1510.00s -> 1512.00s] SPEAKER 3:  Alam na nabibili na
+[1512.00s -> 1514.00s] SPEAKER 3:  yung pak-lunch na mismo.
+[1514.00s -> 1516.00s] SPEAKER 3:  Baka meron nag-event na sa inyo na
+[1516.00s -> 1518.00s] SPEAKER 3:  alam ko sa nabibili
+[1518.00s -> 1520.00s] SPEAKER 3:  yung mga pak-lunch ng pinamimigay.
+[1520.00s -> 1522.00s] SPEAKER 3:  Yes.
+[1522.00s -> 1524.00s] SPEAKER 1:  Oo. Na iya ako itanong eh.
+[1524.00s -> 1526.00s] SPEAKER 1:  Parang gantong yung topper
+[1526.00s -> 1528.00s] SPEAKER 1:  we're all. Ayun si
+[1528.00s -> 1530.00s] SPEAKER 0:  Pablo. Anong sabi niya?
+[1532.00s -> 1534.00s] SPEAKER 0:  Sabi niya.
+[1534.00s -> 1536.00s] SPEAKER 0:  Anong gawin mo siya na show my rice?
+[1536.00s -> 1538.00s] SPEAKER 0:  Show my rice.
+[1538.00s -> 1540.00s] SPEAKER 0:  Mama, muna niluluto?
+[1540.00s -> 1542.00s] UNKNOWN:  Me?
+[1548.00s -> 1550.00s] SPEAKER 0:  Ano, Grisel?
+[1550.00s -> 1552.00s] SPEAKER 0:  Mama mo?
+[1552.00s -> 1554.00s] SPEAKER 3:  Ano lang to, ha?
+[1554.00s -> 1556.00s] SPEAKER 3:  Ten, alo lang.
+[1556.00s -> 1558.00s] SPEAKER 3:  Ten, makuha.
+[1558.00s -> 1560.00s] SPEAKER 4:  Nag-event kasi kami
+[1560.00s -> 1562.00s] SPEAKER 4:  last time. Tapos may
+[1562.00s -> 1564.00s] SPEAKER 4:  pinuntahan kami na
+[1564.00s -> 1566.00s] SPEAKER 4:  ano mo siya talaga yung
+[1566.00s -> 1568.00s] SPEAKER 4:  ano niya?
+[1570.00s -> 1572.00s] SPEAKER 0:  Sorry, sorry.
+[1572.00s -> 1574.00s] SPEAKER 4:  Ano mo siya talaga yung
+[1574.00s -> 1576.00s] SPEAKER 4:  name ng store niya. Tapos
+[1576.00s -> 1578.00s] SPEAKER 4:  naisip ko kasi dapat nung
+[1578.00s -> 1580.00s] SPEAKER 4:  nakaraan pa siya nag
+[1580.00s -> 1582.00s] SPEAKER 4:  parang nagset
+[1582.00s -> 1584.00s] SPEAKER 4:  para malaman niya kung ano yung
+[1584.00s -> 1586.00s] SPEAKER 4:  yung mga ilalagay
+[1586.00s -> 1588.00s] SPEAKER 4:  sa isang box.
+[1588.00s -> 1590.00s] SPEAKER 4:  Or kung magano yung budget.
+[1590.00s -> 1592.00s] SPEAKER 4:  Ano?
+[1592.00s -> 1594.00s] SPEAKER 0:  Saan doon?
+[1596.00s -> 1598.00s] SPEAKER 4:  Tapos ng
+[1598.00s -> 1600.00s] SPEAKER 4:  E.L.P. at
+[1600.00s -> 1602.00s] SPEAKER 4:  yung way along doon.
+[1602.00s -> 1604.00s] SPEAKER 4:  Doon siya naka
+[1604.00s -> 1606.00s] SPEAKER 0:  Ano yung E.L.P.
+[1608.00s -> 1610.00s] SPEAKER 0:  Ano yung E.L.P. te?
+[1610.00s -> 1612.00s] SPEAKER 0:  Tapat na?
+[1612.00s -> 1614.00s] SPEAKER 0:  Yung pilihan ng isa pa yung
+[1614.00s -> 1616.00s] SPEAKER 0:  bar?
+[1616.00s -> 1618.00s] SPEAKER 0:  Okay.
+[1620.00s -> 1622.00s] SPEAKER 1:  Awal lang siya yung
+[1622.00s -> 1624.00s] SPEAKER 1:  kanwari.
+[1624.00s -> 1626.00s] SPEAKER 1:  Anong tawag dito?
+[1626.00s -> 1628.00s] SPEAKER 1:  Yung nakaset na naulang
+[1628.00s -> 1630.00s] SPEAKER 1:  tapos bibilin na lang.
+[1630.00s -> 1632.00s] SPEAKER 4:  Ah yun.
+[1632.00s -> 1634.00s] SPEAKER 4:  Hindi ko lang sure kung
+[1634.00s -> 1636.00s] SPEAKER 4:  meron siyang granon.
+[1636.00s -> 1638.00s] SPEAKER 4:  Pero ano ba?
+[1638.00s -> 1640.00s] SPEAKER 4:  Tumay ko nga sana tanongin siya
+[1640.00s -> 1642.00s] SPEAKER 4:  sa 8-1 eh.
+[1642.00s -> 1644.00s] SPEAKER 4:  Kasi ang conflict na yung time.
+[1648.00s -> 1650.00s] SPEAKER 0:  Pero pag indicator yun,
+[1650.00s -> 1652.00s] SPEAKER 1:  gano'n na lang gagawin natin.
+[1654.00s -> 1656.00s] SPEAKER 3:  Pero natanong muna natin yung
+[1656.00s -> 1658.00s] SPEAKER 3:  ano.
+[1658.00s -> 1660.00s] SPEAKER 0:  May sabi na rin.
+[1662.00s -> 1664.00s] SPEAKER 3:  Ayan. Karinda rin na lang.
+[1664.00s -> 1666.00s] SPEAKER 0:  And then.
+[1670.00s -> 1672.00s] SPEAKER 3:  Okay. And then si
+[1672.00s -> 1674.00s] SPEAKER 3:  isa pagkain niyo daw si Jen
+[1674.00s -> 1676.00s] SPEAKER 3:  na bahala.
+[1676.00s -> 1678.00s] SPEAKER 1:  Sa tech guild yun.
+[1680.00s -> 1682.00s] SPEAKER 1:  MMO.
+[1682.00s -> 1684.00s] SPEAKER 1:  Sa tech guild yun
+[1684.00s -> 1686.00s] SPEAKER 1:  guys.
+[1688.00s -> 1690.00s] SPEAKER 1:  Sagot ko lang,
+[1690.00s -> 1692.00s] SPEAKER 1:  Ice June.
+[1692.00s -> 1694.00s] SPEAKER 1:  Magkayang OA.
+[1696.00s -> 1698.00s] SPEAKER 0:  Magkano na bupala
+[1698.00s -> 1700.00s] SPEAKER 0:  budget sa food?
+[1700.00s -> 1702.00s] SPEAKER 3:  Kung ano, yung itong pack lunch
+[1702.00s -> 1704.00s] SPEAKER 3:  nangan na 10 packs,
+[1704.00s -> 1706.00s] SPEAKER 3:  siguro mga 80
+[1706.00s -> 1708.00s] SPEAKER 3:  pesos each.
+[1708.00s -> 1710.00s] SPEAKER 0:  Kaya ba yun?
+[1710.00s -> 1712.00s] UNKNOWN:  Each pack.
+[1712.00s -> 1714.00s] SPEAKER 3:  Masyado bang
+[1714.00s -> 1716.00s] SPEAKER 3:  mamura yun.
+[1716.00s -> 1718.00s] SPEAKER 3:  Or kung maganda naman yung
+[1718.00s -> 1720.00s] SPEAKER 3:  masyadong madami naman ilalagay
+[1720.00s -> 1722.00s] SPEAKER 3:  siyan. Siguro kaya rin 100
+[1722.00s -> 1724.00s] SPEAKER 3:  ano.
+[1724.00s -> 1726.00s] SPEAKER 3:  100 pesos each.
+[1726.00s -> 1728.00s] SPEAKER 0:  Pack.
+[1728.00s -> 1730.00s] UNKNOWN:  Gano'n.
+[1740.00s -> 1742.00s] UNKNOWN:  Ayan.
+[1742.00s -> 1744.00s] UNKNOWN:  Okay.
+[1744.00s -> 1746.00s] UNKNOWN:  Tapos.
+[1746.00s -> 1748.00s] SPEAKER 0:  Si Jen daw
+[1748.00s -> 1750.00s] SPEAKER 0:  gamma pizza.
+[1750.00s -> 1752.00s] SPEAKER 3:  Ano?
+[1752.00s -> 1754.00s] SPEAKER 1:  MMO.
+[1754.00s -> 1756.00s] SPEAKER 1:  Ba't lang sa Jen.
+[1756.00s -> 1758.00s] SPEAKER 0:  Next.
+[1758.00s -> 1760.00s] UNKNOWN:  And.
+[1762.00s -> 1764.00s] SPEAKER 0:  Yun.
+[1764.00s -> 1766.00s] SPEAKER 0:  So.
+[1766.00s -> 1768.00s] SPEAKER 3:  Ito.
+[1768.00s -> 1770.00s] SPEAKER 3:  Pakita mga yung. Punta ka
+[1770.00s -> 1772.00s] SPEAKER 3:  nga sa baba. Nandiyan yung
+[1772.00s -> 1774.00s] SPEAKER 3:  yung layout ng station.
+[1776.00s -> 1778.00s] SPEAKER 3:  Tata.
+[1778.00s -> 1780.00s] SPEAKER 3:  Tata, engineer. Naka-florp lang.
+[1780.00s -> 1782.00s] SPEAKER 3:  Ginawa sa powerpoint.
+[1784.00s -> 1786.00s] SPEAKER 2:  So, bali diba
+[1786.00s -> 1788.00s] SPEAKER 3:  ano.
+[1788.00s -> 1790.00s] SPEAKER 3:  Ito ay IITC. Sipin niya na IITC yan.
+[1790.00s -> 1792.00s] SPEAKER 3:  Tapos, ito yung stage.
+[1792.00s -> 1794.00s] SPEAKER 3:  And then, yung mga
+[1794.00s -> 1796.00s] SPEAKER 3:  ano, unti lang naman sila.
+[1796.00s -> 1798.00s] SPEAKER 3:  Ano lang? 5 teams. So, yung mga chairs
+[1798.00s -> 1800.00s] SPEAKER 3:  ito.
+[1800.00s -> 1802.00s] SPEAKER 3:  And then, yung mga stations
+[1802.00s -> 1804.00s] SPEAKER 3:  dapat nakasetup na siya sa likod.
+[1804.00s -> 1806.00s] SPEAKER 3:  And then, yung mga facilitators
+[1806.00s -> 1808.00s] SPEAKER 3:  habang nag-opening ceremony
+[1808.00s -> 1810.00s] SPEAKER 3:  is kailangan
+[1810.00s -> 1812.00s] SPEAKER 3:  ano niya, pinaprepare ninyo na
+[1812.00s -> 1814.00s] SPEAKER 3:  kailangan complete
+[1814.00s -> 1816.00s] SPEAKER 3:  na lahat. Gano'n.
+[1816.00s -> 1818.00s] SPEAKER 3:  Lahat ng kakailanganin sa challenge
+[1818.00s -> 1820.00s] SPEAKER 3:  para once the competition na
+[1820.00s -> 1822.00s] UNKNOWN:  okay na.
+[1822.00s -> 1824.00s] UNKNOWN:  And then.
+[1824.00s -> 1826.00s] SPEAKER 3:  Ayan. Tapos ito yung entrance.
+[1826.00s -> 1828.00s] SPEAKER 3:  And then, ato. May registration
+[1828.00s -> 1830.00s] SPEAKER 3:  kiniyan. So, para lang ma-update yung
+[1830.00s -> 1832.00s] SPEAKER 3:  attendance kung may kulang pa ba sa team.
+[1832.00s -> 1834.00s] SPEAKER 3:  And then, ayan.
+[1834.00s -> 1836.00s] SPEAKER 3:  Pa-ikot yung station. Station 1, 2, 3, 4,
+[1836.00s -> 1838.00s] SPEAKER 3:  5, 6, 7, 8, 9, 10.
+[1838.00s -> 1840.00s] SPEAKER 3:  So, update ko lang kayo sa flow.
+[1840.00s -> 1842.00s] SPEAKER 3:  Bali ano kasi, diba?
+[1842.00s -> 1844.00s] SPEAKER 3:  Originally, ang plan namin
+[1844.00s -> 1846.00s] SPEAKER 3:  is ano siya?
+[1846.00s -> 1848.00s] UNKNOWN:  Two batches.
+[1848.00s -> 1850.00s] SPEAKER 3:  Kung ano siya?
+[1850.00s -> 1852.00s] SPEAKER 3:  Kung 10 teams ang mapupuno natin.
+[1852.00s -> 1854.00s] SPEAKER 3:  Pero, since kinulang tayo,
+[1854.00s -> 1856.00s] SPEAKER 3:  is
+[1856.00s -> 1858.00s] SPEAKER 3:  ang
+[1858.00s -> 1860.00s] SPEAKER 3:  isang batch na lang, which is mas okay.
+[1860.00s -> 1862.00s] SPEAKER 3:  Kasi baka sa adjusted yung
+[1862.00s -> 1864.00s] SPEAKER 3:  time. And then,
+[1864.00s -> 1866.00s] SPEAKER 3:  Bali ang mangyayarin
+[1866.00s -> 1868.00s] SPEAKER 3:  dito, is
+[1868.00s -> 1870.00s] SPEAKER 3:  yung mga teams, is nandito
+[1870.00s -> 1872.00s] SPEAKER 3:  mag-start sila dun sa blue na, yung
+[1872.00s -> 1874.00s] SPEAKER 3:  light blue. So, 1 sa mga
+[1874.00s -> 1876.00s] SPEAKER 3:  add numbers na station.
+[1876.00s -> 1878.00s] SPEAKER 3:  1, 3, 5, 7, 9.
+[1878.00s -> 1880.00s] SPEAKER 3:  Ayan. 1, 3, 5, 7, 9.
+[1880.00s -> 1882.00s] SPEAKER 3:  Dun sila mag-start.
+[1882.00s -> 1884.00s] SPEAKER 3:  Para yung isang station ay
+[1884.00s -> 1886.00s] SPEAKER 3:  muna, bakante.
+[1886.00s -> 1888.00s] SPEAKER 0:  Para hindi talaga magkakasilipan
+[1888.00s -> 1890.00s] SPEAKER 3:  ng
+[1890.00s -> 1892.00s] SPEAKER 3:  ginagawa and all.
+[1892.00s -> 1894.00s] SPEAKER 3:  So, sino yung nasa station 2, baka pag-prepare pa.
+[1894.00s -> 1896.00s] SPEAKER 3:  So,
+[1896.00s -> 1898.00s] SPEAKER 3:  station 1, after
+[1898.00s -> 1900.00s] SPEAKER 3:  team 1 sa station 1,
+[1900.00s -> 1902.00s] SPEAKER 3:  punta sila sa station 2
+[1902.00s -> 1904.00s] SPEAKER 3:  and then, paikot lang hanggang sunod-sunod.
+[1904.00s -> 1906.00s] SPEAKER 3:  Hindi siya magkakaraon ng
+[1906.00s -> 1908.00s] SPEAKER 3:  hindi
+[1908.00s -> 1910.00s] SPEAKER 3:  possible na
+[1910.00s -> 1912.00s] SPEAKER 3:  yung dalawang grupo sa isang station.
+[1912.00s -> 1914.00s] SPEAKER 3:  Kasa each station ay
+[1914.00s -> 1916.00s] SPEAKER 3:  may limit, which is 8 minutes.
+[1916.00s -> 1918.00s] SPEAKER 3:  Pero, ipapropos ko kaila dyan
+[1918.00s -> 1920.00s] SPEAKER 3:  na i-adjust siguro ng mga 10
+[1920.00s -> 1922.00s] SPEAKER 3:  minutes. Since,
+[1922.00s -> 1924.00s] SPEAKER 3:  ano lang sila, batch 1 na lang
+[1924.00s -> 1926.00s] SPEAKER 3:  tayo, isang batch na lang.
+[1926.00s -> 1928.00s] SPEAKER 3:  Ganun.
+[1928.00s -> 1930.00s] SPEAKER 3:  So, hindi sila
+[1930.00s -> 1932.00s] SPEAKER 3:  magkakamai-stuck sa
+[1932.00s -> 1934.00s] SPEAKER 3:  dalawang ano.
+[1934.00s -> 1936.00s] SPEAKER 3:  Hindi may-stuck yung dalawang team sa isang station.
+[1936.00s -> 1938.00s] SPEAKER 3:  Ayan. So, iikot
+[1938.00s -> 1940.00s] SPEAKER 3:  lang sila dyan, hanggang
+[1940.00s -> 1942.00s] SPEAKER 3:  matapos yung
+[1942.00s -> 1944.00s] SPEAKER 3:  whole station.
+[1944.00s -> 1946.00s] SPEAKER 3:  So, for example,
+[1946.00s -> 1948.00s] SPEAKER 3:  5,
+[1948.00s -> 1950.00s] SPEAKER 3:  team number 5,
+[1950.00s -> 1952.00s] SPEAKER 3:  so, 5 ako nag-start. So, 5, 6,
+[1952.00s -> 1954.00s] SPEAKER 3:  7, 8, 9, 10. After nyan,
+[1954.00s -> 1956.00s] SPEAKER 3:  balik ako sa 1. Ganun siya.
+[1956.00s -> 1958.00s] SPEAKER 3:  Hanggang sa makabalik ako don sa
+[1958.00s -> 1960.00s] SPEAKER 3:  pinag-startan kong station.
+[1960.00s -> 1962.00s] SPEAKER 3:  Ganun siya.
+[1962.00s -> 1964.00s] SPEAKER 3:  And then,
+[1964.00s -> 1966.00s] SPEAKER 3:  yung sa mga facilitator, heads up ko lang
+[1966.00s -> 1968.00s] SPEAKER 3:  kayo na, balik hindi pwedeng
+[1968.00s -> 1970.00s] SPEAKER 3:  maka-move on sa
+[1970.00s -> 1972.00s] SPEAKER 3:  next station ang isang team ng hindi
+[1972.00s -> 1974.00s] SPEAKER 3:  patapos, o hindi hindi nyo
+[1974.00s -> 1976.00s] SPEAKER 3:  nakokomplete yung isang station.
+[1976.00s -> 1978.00s] SPEAKER 3:  Hayaan nyo siyang maubos yung oras
+[1978.00s -> 1980.00s] SPEAKER 3:  nila.
+[1980.00s -> 1982.00s] SPEAKER 3:  Hayaan nyo maubos yung oras nila
+[1984.00s -> 1986.00s] SPEAKER 3:  para maka-move on sila
+[1986.00s -> 1988.00s] SPEAKER 3:  sa next station
+[1988.00s -> 1990.00s] SPEAKER 3:  unless matapos nila. Ganun.
+[1990.00s -> 1992.00s] SPEAKER 3:  Hindi ko nai-explain
+[1992.00s -> 1994.00s] SPEAKER 3:  yung mechanics. Isi-send ko
+[1994.00s -> 1996.00s] SPEAKER 3:  yung mechanics kasi masyado mahaba para
+[1996.00s -> 1998.00s] SPEAKER 3:  explain. And explain ko lang lang din siguro
+[1998.00s -> 2000.00s] SPEAKER 3:  yung flags.
+[2000.00s -> 2002.00s] SPEAKER 3:  Balik magkakroon tayo ng dalawang flags.
+[2002.00s -> 2004.00s] SPEAKER 3:  So,
+[2004.00s -> 2006.00s] SPEAKER 3:  yung each team,
+[2006.00s -> 2008.00s] SPEAKER 3:  bibigyan sila ng yellow flag
+[2008.00s -> 2010.00s] SPEAKER 3:  and then blue flag. Yung yellow flag
+[2010.00s -> 2012.00s] SPEAKER 3:  is the past
+[2012.00s -> 2014.00s] SPEAKER 3:  flag. Meaning pag binigay
+[2014.00s -> 2016.00s] SPEAKER 3:  nila yun sa facilitator,
+[2016.00s -> 2018.00s] SPEAKER 3:  pwede nilang
+[2018.00s -> 2020.00s] SPEAKER 3:  escape yung task and then move on
+[2020.00s -> 2022.00s] SPEAKER 3:  sila sa next station.
+[2022.00s -> 2024.00s] SPEAKER 3:  Pwede nilang escape. Ganun.
+[2024.00s -> 2026.00s] SPEAKER 3:  Kapag hindi talaga nila
+[2026.00s -> 2028.00s] SPEAKER 3:  kaya or what. Mahina sila
+[2028.00s -> 2030.00s] SPEAKER 3:  dun sa aspect na yun.
+[2030.00s -> 2032.00s] SPEAKER 3:  Pwede nilang escape.
+[2032.00s -> 2034.00s] SPEAKER 3:  The other one is the clue flag.
+[2034.00s -> 2036.00s] SPEAKER 3:  Which is blue flag.
+[2036.00s -> 2038.00s] SPEAKER 3:  Ano siya? Pag binigay nila yun sa station,
+[2038.00s -> 2040.00s] SPEAKER 3:  bibigyan sila ni station
+[2040.00s -> 2042.00s] SPEAKER 3:  ng clue
+[2042.00s -> 2044.00s] SPEAKER 3:  paano mas of yung station.
+[2044.00s -> 2046.00s] SPEAKER 3:  Bali yung clue pare-pareha sa lahat ng teams
+[2046.00s -> 2048.00s] SPEAKER 3:  para fair siya. Ganun.
+[2048.00s -> 2050.00s] SPEAKER 3:  And then sa stations, explain
+[2050.00s -> 2052.00s] SPEAKER 3:  na lang din namin further
+[2052.00s -> 2054.00s] SPEAKER 3:  sa April 1.
+[2054.00s -> 2056.00s] SPEAKER 3:  So, ayan.
+[2056.00s -> 2058.00s] SPEAKER 0:  And then...
+[2070.00s -> 2072.00s] UNKNOWN:  Ayan.
+[2074.00s -> 2076.00s] SPEAKER 0:  Ah, magkain nagsalata.
+[2076.00s -> 2078.00s] SPEAKER 0:  Balik ka sa ano.
+[2078.00s -> 2080.00s] SPEAKER 3:  And then
+[2080.00s -> 2082.00s] SPEAKER 3:  diba may mga station tayo,
+[2082.00s -> 2084.00s] SPEAKER 3:  may din tayong mga guides.
+[2086.00s -> 2088.00s] SPEAKER 3:  Yung mga guides sila yung
+[2088.00s -> 2090.00s] SPEAKER 3:  makakasama ng
+[2090.00s -> 2092.00s] SPEAKER 3:  station ng each team.
+[2092.00s -> 2094.00s] SPEAKER 3:  Sila yung makakasama ng each team
+[2094.00s -> 2096.00s] SPEAKER 3:  sa paglibot.
+[2096.00s -> 2098.00s] SPEAKER 3:  Sa paglibot dun sa
+[2098.00s -> 2100.00s] SPEAKER 3:  station.
+[2100.00s -> 2102.00s] SPEAKER 3:  Bali siya yung maghahawak ng scoreboard
+[2102.00s -> 2104.00s] SPEAKER 3:  nila. So, for example,
+[2104.00s -> 2106.00s] SPEAKER 3:  ako ang nakasign sa
+[2106.00s -> 2107.92s] SPEAKER 3:  team 1 or sa district
+[2107.92s -> 2109.92s] SPEAKER 3:  one. I- determin natin ang
+[2109.92s -> 2112.00s] SPEAKER 3:  team ang district 1.
+[2113.28s -> 2115.28s] SPEAKER 3:  Since Hunger Games ang team,
+[2115.28s -> 2122.00s] SPEAKER 3:  ang team natin, ang teman natin.
+[2122.00s -> 2124.00s] SPEAKER 3:  So, ako yung maghawak ng score
+[2124.00s -> 2126.00s] SPEAKER 3:  nila, scoreboard.
+[2126.00s -> 2128.00s] SPEAKER 3:  And then once napupunta na kami
+[2128.00s -> 2129.84s] SPEAKER 3:  sa station 1. Ganun yan. Ibibigay ko ngayon
+[2129.84s -> 2131.84s] SPEAKER 3:  yung scoreboard
+[2131.84s -> 2133.84s] SPEAKER 3:  ng team na yun sa facilitator
+[2133.84s -> 2135.84s] SPEAKER 3:  ng station.
+[2135.84s -> 2141.64s] SPEAKER 3:  Facilitator ng station siya ang magta-time, siya din ang maglalagay ng score.
+[2141.64s -> 2149.04s] SPEAKER 3:  So, yung mga guides sila yung magsucheck kung may violations, kung nandadaya and all, gano'n.
+[2150.24s -> 2156.64s] SPEAKER 3:  So, bawal mag-usap-usap during the competition ng mga teams, gano'n.
+[2158.24s -> 2159.24s] SPEAKER 3:  Pusit ka.
+[2159.24s -> 2167.64s] SPEAKER 3:  And then, yun, kailangan namin ng guides na kailangan namin i-assign.
+[2169.44s -> 2171.44s] SPEAKER 3:  So, kaya'n.
+[2172.84s -> 2180.44s] SPEAKER 0:  Kino kaya ang pwede pa, so kailangan pa namin ng dalawa.
+[2180.44s -> 2186.44s] SPEAKER 3:  Napupunta ng April ano, ha? April 2, 930 to 12.
+[2186.64s -> 2189.64s] SPEAKER 3:  Kino ang pwede? 930 to 12.
+[2193.64s -> 2196.64s] SPEAKER 0:  930 to 12, anyone?
+[2196.64s -> 2198.64s] SPEAKER 0:  2 na lang.
+[2200.24s -> 2204.64s] SPEAKER 0:  Mga ano pa din kasi yung schedule niyo, hindi pa sure kaya hindi niyo pa masabi.
+[2207.64s -> 2210.64s] SPEAKER 0:  Kailangan pa namin ng 2.
+[2212.64s -> 2215.64s] UNKNOWN:  Kasi may 5 games.
+[2215.84s -> 2216.84s] SPEAKER 0:  Oo.
+[2222.84s -> 2224.84s] SPEAKER 0:  Sige, bahala na.
+[2225.84s -> 2226.84s] SPEAKER 3:  Hindi.
+[2226.84s -> 2230.84s] SPEAKER 3:  Kapag gano'n naman, ang gagawin natin, equal na silang wala.
+[2230.84s -> 2233.84s] SPEAKER 3:  Lahat sila wala na, if kulangin tayo sa tao.
+[2234.84s -> 2236.84s] SPEAKER 0:  May titingin na lang.
+[2238.84s -> 2239.84s] SPEAKER 3:  Ayaw nga.
+[2239.84s -> 2241.84s] SPEAKER 3:  Kino ang maghahawak?
+[2242.84s -> 2243.84s] SPEAKER 0:  If wala.
+[2244.04s -> 2246.04s] SPEAKER 0:  Hawak nila?
+[2248.04s -> 2249.04s] SPEAKER 0:  Pwede naman.
+[2249.04s -> 2251.04s] SPEAKER 0:  Kailang kasi baka baguhin.
+[2251.04s -> 2253.04s] SPEAKER 0:  Baka baguhin.
+[2254.04s -> 2257.04s] SPEAKER 1:  Makakita naman siguro yun kung babaguhin.
+[2257.04s -> 2261.04s] SPEAKER 1:  Alam naman ng sulat, siguro yung facilitator yung sulat niya.
+[2261.04s -> 2263.04s] SPEAKER 1:  Anong ballpen gamit niya.
+[2264.04s -> 2265.04s] SPEAKER 1:  Diba?
+[2267.04s -> 2270.04s] SPEAKER 3:  Kailang nungupalig ni mas okay na may guide.
+[2270.04s -> 2273.04s] SPEAKER 3:  Kaya nga, eh kaso nga, yung skid nila.
+[2273.24s -> 2274.24s] SPEAKER 0:  Diba?
+[2275.24s -> 2276.24s] UNKNOWN:  A go.
+[2276.24s -> 2278.24s] SPEAKER 3:  Sige, if ano chat na lang kayo, ha?
+[2278.24s -> 2280.24s] SPEAKER 3:  Meron na kaming tatlong na anas.
+[2281.24s -> 2282.24s] SPEAKER 3:  Wala talaga.
+[2282.24s -> 2283.24s] SPEAKER 3:  And then?
+[2284.24s -> 2285.24s] SPEAKER 3:  Ha?
+[2285.24s -> 2287.24s] SPEAKER 3:  Wala talaga kung kulang.
+[2287.24s -> 2291.24s] SPEAKER 3:  Ang naisip ko na lang diyan, is may dis na lang.
+[2291.24s -> 2297.24s] SPEAKER 6:  Yung mag-facilitate ng station, siya na lang din mag-time tapos mag-score.
+[2297.44s -> 2300.44s] SPEAKER 6:  So ang scoring is by station.
+[2301.44s -> 2304.44s] SPEAKER 3:  Yung scoreboard ay by station ng column.
+[2304.44s -> 2307.44s] SPEAKER 3:  Tapos ita-tally na lang siya after matapos ng lahat.
+[2310.44s -> 2317.44s] SPEAKER 6:  Pero marang mas okay kasi naisang ano yun, yung team isang scoreboard mas hindi nakakalit na yun eh.
+[2317.44s -> 2320.44s] SPEAKER 3:  Masama-sama yung score nila dun.
+[2320.64s -> 2322.64s] SPEAKER 3:  Okay, go, next.
+[2322.64s -> 2324.64s] SPEAKER 3:  And then?
+[2324.64s -> 2327.64s] SPEAKER 3:  Wala, dito ang finance, Alexis and JD.
+[2327.64s -> 2328.64s] UNKNOWN:  Sino'y mag-score.
+[2328.64s -> 2330.64s] UNKNOWN:  And then, babaka pa.
+[2332.64s -> 2333.64s] UNKNOWN:  Ayan.
+[2334.64s -> 2335.64s] SPEAKER 0:  Ay, sa unang.
+[2335.64s -> 2336.64s] SPEAKER 0:  Ayan.
+[2336.64s -> 2337.64s] SPEAKER 0:  Ayan.
+[2337.64s -> 2338.64s] SPEAKER 0:  Ayan.
+[2338.64s -> 2339.64s] UNKNOWN:  Ayan.
+[2339.64s -> 2340.64s] SPEAKER 3:  Ayan.
+[2340.64s -> 2341.64s] SPEAKER 3:  Ayan.
+[2341.64s -> 2342.64s] SPEAKER 3:  Ayan.
+[2342.64s -> 2343.64s] SPEAKER 3:  Ayan.
+[2343.64s -> 2344.64s] SPEAKER 3:  Ayan.
+[2344.64s -> 2345.64s] SPEAKER 3:  Ayan.
+[2345.64s -> 2346.64s] UNKNOWN:  Ayan.
+[2346.64s -> 2347.64s] UNKNOWN:  Ayan.
+[2347.64s -> 2348.64s] UNKNOWN:  Ayan.
+[2348.84s -> 2349.84s] SPEAKER 3:  Ay, sa una.
+[2349.84s -> 2350.84s] SPEAKER 3:  Sa una pala.
+[2350.84s -> 2351.84s] SPEAKER 3:  Yung sa unang part.
+[2351.84s -> 2358.84s] SPEAKER 3:  Ba li Zyra and ano, Zyra, Ron, and Gio need your decision about the hosting.
+[2358.84s -> 2360.84s] SPEAKER 3:  So paano?
+[2360.84s -> 2366.84s] UNKNOWN:  8 to 9.30 opening ceremony, sinong host?
+[2366.84s -> 2368.84s] SPEAKER 3:  8 to 9.30 ta.
+[2368.84s -> 2371.84s] SPEAKER 3:  8 to 9.30 opening ceremony, sinong host?
+[2371.84s -> 2374.84s] SPEAKER 3:  Zyra, makakakonfirm ka hindi?
+[2375.04s -> 2377.04s] UNKNOWN:  Hindi ko pa sure.
+[2377.04s -> 2380.04s] UNKNOWN:  Ano, ano, chika ba?
+[2380.04s -> 2386.04s] UNKNOWN:  Kapag ano, kapag walang court, pwede ako magpa-excus.
+[2390.04s -> 2391.04s] UNKNOWN:  Aunty!
+[2391.04s -> 2393.04s] SPEAKER 3:  Auntie, chat mo na ang prop mo.
+[2393.04s -> 2396.04s] SPEAKER 3:  Sa Monday pupuntahan ko.
+[2396.04s -> 2397.04s] SPEAKER 7:  Ayan.
+[2397.04s -> 2400.04s] SPEAKER 7:  Para ma-ano natin si Ron.
+[2400.04s -> 2401.04s] SPEAKER 3:  Kawa naman si Ron.
+[2401.04s -> 2402.04s] SPEAKER 3:  Mag-isa siya.
+[2402.04s -> 2403.04s] SPEAKER 3:  Kawa naman si Ron.
+[2403.04s -> 2405.04s] SPEAKER 3:  Gawan naman si Ron, mag-isa siya.
+[2405.04s -> 2407.04s] UNKNOWN:  Pag-uopening ceremony.
+[2407.04s -> 2409.04s] SPEAKER 5:  Gaga.
+[2409.04s -> 2411.04s] SPEAKER 5:  Ano nyan ka? Pagkat lumalandi ka ngayon.
+[2411.04s -> 2413.04s] UNKNOWN:  Okay.
+[2413.04s -> 2415.04s] SPEAKER 3:  And then...
+[2417.04s -> 2419.04s] UNKNOWN:  So during ano...
+[2423.04s -> 2425.04s] SPEAKER 0:  Ito, during opening ceremony,
+[2425.04s -> 2427.04s] SPEAKER 0:  kailangan na siyempre natin ang mga...
+[2427.04s -> 2429.04s] SPEAKER 3:  I think dyan tayo naman,
+[2429.04s -> 2431.04s] SPEAKER 3:  at tayo ako mag-daw documentation.
+[2431.04s -> 2433.04s] SPEAKER 3:  Kasi wala naman tayong ginagawa ng doktor.
+[2435.04s -> 2437.04s] SPEAKER 4:  Diba?
+[2437.04s -> 2439.04s] SPEAKER 3:  Walang pala tayong ginagawa niyan.
+[2439.04s -> 2441.04s] SPEAKER 3:  Kasi yung mga station, sila yung...
+[2441.04s -> 2443.04s] SPEAKER 3:  Like, inaasikasa naman yung station.
+[2443.04s -> 2445.04s] SPEAKER 3:  Registration pala.
+[2445.04s -> 2447.04s] SPEAKER 1:  Sino ang itaia ano sa registration?
+[2451.04s -> 2453.04s] SPEAKER 0:  Sige.
+[2453.04s -> 2455.04s] SPEAKER 0:  Pwede si Jack. Wala pa naman siyang
+[2455.04s -> 2457.04s] SPEAKER 0:  ganap dyan.
+[2457.04s -> 2459.04s] SPEAKER 0:  Oh, carry.
+[2459.04s -> 2461.04s] SPEAKER 0:  Sige, go.
+[2461.04s -> 2463.04s] SPEAKER 0:  Documentation.
+[2463.04s -> 2465.04s] SPEAKER 3:  Pero bahala natin.
+[2465.04s -> 2467.04s] SPEAKER 3:  May pupunta naman siya.
+[2467.04s -> 2469.04s] SPEAKER 3:  Unexpected.
+[2469.04s -> 2471.04s] SPEAKER 3:  O yung mga biglang mawawalan ng klassen,
+[2471.04s -> 2473.04s] UNKNOWN:  o ganyan.
+[2475.04s -> 2477.04s] UNKNOWN:  Ayan.
+[2479.04s -> 2481.04s] SPEAKER 0:  So yun, yung mga facilitators ng station,
+[2481.04s -> 2483.04s] SPEAKER 3:  nabang nag-uopening ceremony,
+[2483.04s -> 2485.04s] SPEAKER 3:  kayo ay naayos nyo na lahat sa likod, sa station nyo.
+[2485.04s -> 2487.04s] SPEAKER 3:  And then...
+[2487.04s -> 2489.04s] SPEAKER 3:  And competition proper.
+[2489.04s -> 2491.04s] SPEAKER 3:  So mga guides.
+[2491.04s -> 2493.04s] SPEAKER 3:  And then...
+[2493.04s -> 2495.04s] SPEAKER 3:  Break.
+[2495.04s -> 2497.04s] SPEAKER 3:  Break natin 11.30 to 12.
+[2497.04s -> 2499.04s] SPEAKER 3:  So merong kailangan
+[2499.04s -> 2501.04s] SPEAKER 3:  ano, tumakbo.
+[2501.04s -> 2503.04s] SPEAKER 3:  Nabibili ng pack lunch.
+[2503.04s -> 2505.04s] SPEAKER 3:  So bahala na, utusa na lang natin kung sino free.
+[2505.04s -> 2507.04s] SPEAKER 3:  Dat ano.
+[2507.04s -> 2509.04s] SPEAKER 3:  Wala din tayong asain kasi hindi pa
+[2509.04s -> 2511.04s] SPEAKER 3:  sila nag-aano eh.
+[2511.04s -> 2513.04s] SPEAKER 3:  So kung merong nandito, okay.
+[2513.04s -> 2515.04s] SPEAKER 3:  Kung merong nandito na hindi pa nagsasagot sa poll,
+[2515.04s -> 2517.04s] SPEAKER 3:  sagot na kayo please.
+[2517.04s -> 2519.04s] SPEAKER 3:  Para malaman namin ng anes.
+[2519.04s -> 2521.04s] SPEAKER 3:  Ang mga asain na tao.
+[2521.04s -> 2523.04s] SPEAKER 3:  And then...
+[2523.04s -> 2525.04s] SPEAKER 3:  Awarding ceremony
+[2525.04s -> 2527.04s] SPEAKER 3:  which is 12 to 1.
+[2527.04s -> 2529.04s] SPEAKER 3:  Ron?
+[2529.04s -> 2531.04s] SPEAKER 3:  Ron, diba?
+[2531.04s -> 2533.04s] SPEAKER 3:  Hanggang tupa pa.
+[2535.04s -> 2537.04s] SPEAKER 0:  So...
+[2537.04s -> 2539.04s] SPEAKER 3:  Sino kaya pwede mag-host?
+[2539.04s -> 2541.04s] SPEAKER 3:  Hindi pwede si Ron, me.
+[2541.04s -> 2543.04s] SPEAKER 5:  Hindi na siya pwede.
+[2543.04s -> 2545.04s] SPEAKER 5:  Alas...
+[2545.04s -> 2547.04s] SPEAKER 5:  Hanggang kaya ko nalang
+[2547.04s -> 2549.04s] SPEAKER 5:  hamabal is hanggang one.
+[2549.04s -> 2551.04s] SPEAKER 5:  Eh kaso, diba parang
+[2551.04s -> 2553.04s] SPEAKER 5:  tapos na rin siya.
+[2555.04s -> 2557.04s] UNKNOWN:  Examine na kasi yan.
+[2557.04s -> 2559.04s] UNKNOWN:  Ah, okay.
+[2561.04s -> 2563.04s] SPEAKER 0:  Zaira.
+[2565.04s -> 2567.04s] SPEAKER 7:  Pwede na ako, ganyang oras.
+[2567.04s -> 2569.04s] SPEAKER 7:  Sure yan.
+[2569.04s -> 2571.04s] SPEAKER 7:  Okay, sure yan, ha.
+[2571.04s -> 2573.04s] SPEAKER 3:  Awarding ceremony, ikaw mag-lead.
+[2575.04s -> 2577.04s] SPEAKER 7:  Katakaling kitang buong bo'o.
+[2577.04s -> 2579.04s] SPEAKER 3:  Awarding ceremony, ha.
+[2579.04s -> 2581.04s] SPEAKER 3:  Ikaw ang mag-lead.
+[2581.04s -> 2583.04s] SPEAKER 3:  Ati ko.
+[2583.04s -> 2585.04s] SPEAKER 3:  Ayan.
+[2585.04s -> 2587.04s] SPEAKER 3:  Hanag na lang tayo ng partner, my friend.
+[2587.04s -> 2589.04s] SPEAKER 3:  Sumun tayong dalong.
+[2589.04s -> 2591.04s] SPEAKER 3:  Okay, documentation mo.
+[2593.04s -> 2595.04s] SPEAKER 5:  Ang kapal mo, Kuya Pau.
+[2595.04s -> 2597.04s] SPEAKER 5:  Nag-inayaw mo siyang kasama mo.
+[2597.04s -> 2599.04s] SPEAKER 5:  Sabi ko, pagod ka na.
+[2599.04s -> 2601.04s] SPEAKER 5:  Noong ako yung nag-aayas,
+[2601.04s -> 2603.04s] SPEAKER 5:  sabi ko, pagod ka na. Tasi ko nag-voluntary ka ka ate,
+[2603.04s -> 2605.04s] SPEAKER 5:  Zaira.
+[2605.04s -> 2607.04s] SPEAKER 7:  Ganun talaga, wag ka na mag-salita
+[2607.04s -> 2609.04s] SPEAKER 7:  Ron.
+[2609.04s -> 2611.04s] SPEAKER 5:  Deserve mong mag-host.
+[2611.04s -> 2613.04s] SPEAKER 5:  Balim.
+[2613.04s -> 2615.04s] SPEAKER 5:  Ah, kay baba mo pa.
+[2615.04s -> 2617.04s] SPEAKER 0:  I think wala na.
+[2617.04s -> 2619.04s] SPEAKER 0:  Pipiti na to.
+[2621.04s -> 2623.04s] SPEAKER 0:  May nilagay ka pa ba dito? Wala na.
+[2623.04s -> 2625.04s] SPEAKER 0:  Ako to.
+[2625.04s -> 2627.04s] SPEAKER 0:  Recap mo sila.
+[2627.04s -> 2629.04s] SPEAKER 0:  Recap mo sila.
+[2629.04s -> 2631.04s] SPEAKER 0:  Flow na to. Wala na.
+[2631.04s -> 2633.04s] SPEAKER 3:  Oh sige, recap mo flow.
+[2633.04s -> 2635.04s] SPEAKER 3:  Ayan, mayroon pa kailang ipilab
+[2635.04s -> 2637.04s] SPEAKER 3:  dyan sa flow.
+[2637.04s -> 2639.04s] SPEAKER 0:  Wala sila eh.
+[2643.04s -> 2645.04s] SPEAKER 0:  Hindi, pero sige.
+[2645.04s -> 2647.04s] SPEAKER 1:  Ano ko, chat ko, try ko.
+[2647.04s -> 2649.04s] SPEAKER 1:  Ayan. So yung sa flow natin,
+[2649.04s -> 2651.04s] SPEAKER 1:  recap lang namin, no.
+[2651.04s -> 2653.04s] SPEAKER 1:  Nag-i-start tayo.
+[2653.04s -> 2655.04s] UNKNOWN:  8 o'clock
+[2655.04s -> 2657.04s] SPEAKER 1:  am.
+[2657.04s -> 2659.04s] SPEAKER 1:  And yung matatapos siyang hanggang 1 lang.
+[2659.04s -> 2661.04s] SPEAKER 1:  So sa
+[2661.04s -> 2663.04s] SPEAKER 1:  opening ceremony,
+[2663.04s -> 2665.04s] SPEAKER 1:  prayer, tech ops,
+[2665.04s -> 2667.04s] SPEAKER 1:  yung nasa PPT na yan,
+[2667.04s -> 2669.04s] SPEAKER 1:  yung national anthem, tapos
+[2669.04s -> 2671.04s] SPEAKER 1:  host,
+[2671.04s -> 2673.04s] SPEAKER 1:  dito na yan, yung introduction to a day
+[2673.04s -> 2675.04s] SPEAKER 1:  event si Ron, tapos
+[2675.04s -> 2677.04s] SPEAKER 1:  opening remarks, me.
+[2677.04s -> 2679.04s] SPEAKER 1:  Tapos yung sa acknowledgement of
+[2679.04s -> 2681.04s] SPEAKER 1:  sponsors, actually wala pa kaming
+[2681.04s -> 2683.04s] SPEAKER 1:  inisip, yung sino, yung pwede.
+[2685.04s -> 2687.04s] SPEAKER 1:  Next is dito.
+[2687.04s -> 2689.04s] SPEAKER 1:  Yung sa orientation, si
+[2689.04s -> 2691.04s] SPEAKER 1:  Pao. Tapos
+[2691.04s -> 2693.04s] SPEAKER 1:  9 o'clock, eto yung team attendance
+[2693.04s -> 2695.04s] SPEAKER 1:  na. So ang gagawin dito, magkakaroon
+[2695.04s -> 2697.04s] SPEAKER 1:  ng
+[2697.04s -> 2699.04s] SPEAKER 1:  photo op before
+[2699.04s -> 2701.04s] SPEAKER 1:  tsaka after ng
+[2701.04s -> 2703.04s] SPEAKER 1:  mismong competitions.
+[2703.04s -> 2705.04s] SPEAKER 1:  Dito, yung sa
+[2705.04s -> 2707.04s] SPEAKER 1:  team attendance,
+[2707.04s -> 2709.04s] SPEAKER 1:  paketin natin sila sa stage.
+[2709.04s -> 2711.04s] SPEAKER 1:  Paketin sa stage,
+[2711.04s -> 2713.04s] SPEAKER 1:  tapos photo op nila.
+[2713.04s -> 2715.04s] SPEAKER 1:  Bago sila ma-hogard.
+[2715.04s -> 2717.04s] SPEAKER 1:  Ganun. Ayan, host
+[2717.04s -> 2719.04s] SPEAKER 1:  pa rin yan. And
+[2719.04s -> 2721.04s] SPEAKER 1:  next, encouragement
+[2721.04s -> 2723.04s] SPEAKER 1:  speech sa advisors
+[2723.04s -> 2725.04s] SPEAKER 1:  natin, dalawa.
+[2725.04s -> 2727.04s] SPEAKER 1:  Sana makapunta sila.
+[2727.04s -> 2729.04s] SPEAKER 1:  And eto, competition
+[2729.04s -> 2731.04s] SPEAKER 1:  proper, ginuman namin
+[2731.04s -> 2733.04s] SPEAKER 1:  itong 2 hours lang. Ayan.
+[2733.04s -> 2735.04s] SPEAKER 1:  Tapos, after ng
+[2735.04s -> 2737.04s] SPEAKER 1:  break, dito sa break, eto na yung
+[2737.04s -> 2739.04s] SPEAKER 1:  mga scoring and
+[2739.04s -> 2741.04s] SPEAKER 1:  kemek. Kaya nag-allot kami
+[2741.04s -> 2743.04s] SPEAKER 1:  ng 30 minutes.
+[2743.04s -> 2745.04s] SPEAKER 1:  Tapos, sa
+[2745.04s -> 2747.04s] SPEAKER 1:  awarding ceremony naman,
+[2747.04s -> 2749.04s] SPEAKER 1:  meron ditong stations recap.
+[2749.04s -> 2751.04s] SPEAKER 1:  Parang mabilis lang to.
+[2751.04s -> 2753.04s] SPEAKER 1:  Iaano lang
+[2753.04s -> 2755.04s] SPEAKER 1:  nung speaker, o kung sinaman yung
+[2755.04s -> 2757.04s] SPEAKER 1:  magsasalita, bakit
+[2757.04s -> 2759.04s] SPEAKER 1:  yun yung stations na ginuman natin.
+[2759.04s -> 2761.04s] SPEAKER 1:  Tapos, yung sa
+[2761.04s -> 2763.04s] SPEAKER 1:  announcement of winners,
+[2763.04s -> 2765.04s] SPEAKER 1:  merong tatlo.
+[2765.04s -> 2767.04s] SPEAKER 1:  Merong tatlo, tapos
+[2767.04s -> 2769.04s] SPEAKER 1:  dalawang ano yung gagawin natin.
+[2769.04s -> 2771.04s] SPEAKER 1:  Una, yung top 3
+[2771.04s -> 2773.04s] SPEAKER 1:  per 2nd, 3rd place.
+[2773.04s -> 2775.04s] SPEAKER 1:  And then, yung mga
+[2775.04s -> 2777.04s] SPEAKER 1:  natalo. So, syempre ang longkot
+[2777.04s -> 2779.04s] SPEAKER 1:  naman kung yung top 3 lang yung may
+[2779.04s -> 2781.04s] SPEAKER 1:  may paprice.
+[2781.04s -> 2783.04s] SPEAKER 1:  Ang ginawa na lang namin kasi
+[2783.04s -> 2785.04s] SPEAKER 1:  is,
+[2785.04s -> 2787.04s] SPEAKER 1:  yung top 3, pukod sa may pera
+[2787.04s -> 2789.04s] SPEAKER 1:  sila, lanyard, tapos
+[2789.04s -> 2791.04s] SPEAKER 1:  certificate, tapos sa
+[2791.04s -> 2793.04s] SPEAKER 1:  participants, is ginawa
+[2793.04s -> 2795.04s] SPEAKER 1:  namin.
+[2795.04s -> 2797.04s] SPEAKER 0:  Bibigyan na lang namin sila
+[2797.04s -> 2799.04s] SPEAKER 1:  ng lanyard.
+[2799.04s -> 2801.04s] SPEAKER 1:  Syempre yung effort man lang nila.
+[2801.04s -> 2803.04s] SPEAKER 1:  Lanyard sya kasi
+[2803.04s -> 2805.04s] SPEAKER 1:  certificate. Lahat ng participants may lanyard.
+[2805.04s -> 2807.04s] SPEAKER 3:  Ang pinakaiba nung nila sa top 3
+[2807.04s -> 2809.04s] SPEAKER 3:  is may pera yung top 3.
+[2809.04s -> 2811.04s] SPEAKER 1:  Ayan.
+[2811.04s -> 2813.04s] SPEAKER 1:  So, dito
+[2813.04s -> 2815.04s] SPEAKER 1:  congratulatory speech from
+[2815.04s -> 2817.04s] SPEAKER 1:  advisors ulit, and then
+[2817.04s -> 2819.04s] SPEAKER 1:  Ano pala natin ibigay yung
+[2819.04s -> 2821.04s] SPEAKER 3:  pera? Should it be G-cash
+[2821.04s -> 2823.04s] SPEAKER 3:  or cash?
+[2825.04s -> 2827.04s] SPEAKER 3:  Nakasobre?
+[2827.04s -> 2829.04s] SPEAKER 3:  Matatay? Abuloy?
+[2829.04s -> 2831.04s] SPEAKER 1:  Hindi, ay medyo maayos na sobre
+[2831.04s -> 2833.04s] SPEAKER 1:  scenes. Wat naman pang patay?
+[2833.04s -> 2835.04s] SPEAKER 1:  Emi mo naman. Pero G-cash
+[2835.04s -> 2837.04s] SPEAKER 1:  kundi.
+[2837.04s -> 2839.04s] SPEAKER 3:  Ilagay mo sa kailangan
+[2839.04s -> 2841.04s] SPEAKER 3:  sobre na maayos, habibilin.
+[2841.04s -> 2843.04s] SPEAKER 1:  Kasi ayin pa natin
+[2843.04s -> 2845.04s] SPEAKER 1:  ang G-cash nila.
+[2845.04s -> 2847.04s] SPEAKER 1:  O mamayan, wait lang. Ayan.
+[2847.04s -> 2849.04s] SPEAKER 1:  So, next bago mag-end
+[2849.04s -> 2851.04s] SPEAKER 1:  form. Tapos, photo op
+[2851.04s -> 2853.04s] SPEAKER 1:  natin. Lahat na.
+[2853.04s -> 2855.04s] SPEAKER 1:  Ayan. And then
+[2855.04s -> 2857.04s] SPEAKER 1:  ayan. Closing remarks sa MG.
+[2857.04s -> 2859.04s] SPEAKER 1:  Tapos, 1255
+[2859.04s -> 2861.04s] SPEAKER 1:  TUP Him,
+[2861.04s -> 2863.04s] SPEAKER 1:  Tech Ops 2. Tapos,
+[2863.04s -> 2865.04s] SPEAKER 1:  ito na, yung 124.
+[2865.04s -> 2867.04s] SPEAKER 1:  Opening ng station sa lahat.
+[2867.04s -> 2869.04s] SPEAKER 1:  Ang plan namin dito,
+[2869.04s -> 2871.04s] SPEAKER 1:  kasi
+[2871.04s -> 2873.04s] SPEAKER 1:  inisip namin
+[2873.04s -> 2875.04s] SPEAKER 1:  baka walang mga pumunta kasi nga
+[2875.04s -> 2877.04s] SPEAKER 1:  5th floor, nakakapagod.
+[2877.04s -> 2879.04s] SPEAKER 1:  Ganun. Kaya
+[2879.04s -> 2881.04s] SPEAKER 1:  kinaanon namin na pag once
+[2881.04s -> 2883.04s] SPEAKER 1:  wala na talagang pumupunta,
+[2883.04s -> 2885.04s] SPEAKER 1:  is, ikoclose na natin siya
+[2885.04s -> 2887.04s] SPEAKER 1:  as maaga, as possible.
+[2887.04s -> 2889.04s] SPEAKER 1:  Kasi syepren lang naman mag-wait tayo
+[2889.04s -> 2891.04s] SPEAKER 1:  ng 124. Tapos, wala naman
+[2891.04s -> 2893.04s] SPEAKER 1:  palang pupunta, diba?
+[2893.04s -> 2895.04s] SPEAKER 1:  So, ayun yung plan namin dito ni Pau
+[2895.04s -> 2897.04s] SPEAKER 1:  na mag-wait. Pero
+[2897.04s -> 2899.04s] SPEAKER 1:  pag kunari, wala na talaga mga
+[2899.04s -> 2901.04s] SPEAKER 1:  alastos, wala na. Nakatungangan
+[2901.04s -> 2903.04s] SPEAKER 1:  na lang tayo. Go na for
+[2903.04s -> 2905.04s] SPEAKER 1:  pack up. Gyan na rin na.
+[2905.04s -> 2907.04s] SPEAKER 1:  Ayun. Ayun yung plan dito sa 124.
+[2907.04s -> 2909.04s] SPEAKER 1:  Kasi inisip namin
+[2909.04s -> 2911.04s] SPEAKER 1:  diba nakakapagod talaga
+[2911.04s -> 2913.04s] SPEAKER 1:  makit sa IRTC?
+[2913.04s -> 2915.04s] SPEAKER 1:  Aminin nyo,
+[2915.04s -> 2917.04s] SPEAKER 1:  5th floor, diba?
+[2917.04s -> 2919.04s] SPEAKER 1:  So, ayun. Wait lang.
+[2919.04s -> 2921.04s] SPEAKER 1:  Sino ang ilalagay natin sa stations?
+[2921.04s -> 2923.04s] SPEAKER 1:  Inde, chat ko si Cha
+[2923.04s -> 2925.04s] SPEAKER 1:  kung ano yung gusto niya dito,
+[2925.04s -> 2927.04s] SPEAKER 1:  then kailangan pa ng isang tao.
+[2927.04s -> 2929.04s] SPEAKER 1:  Na lang.
+[2929.04s -> 2931.04s] SPEAKER 3:  Pwede mag-change kami ni Cha kung
+[2931.04s -> 2933.04s] SPEAKER 3:  gusto niya yung mechanics ng competition.
+[2933.04s -> 2935.04s] SPEAKER 3:  Tapos ako dyan sa stations,
+[2935.04s -> 2937.04s] SPEAKER 3:  rika.
+[2937.04s -> 2939.04s] SPEAKER 0:  Pwede tinggak sa sponsor
+[2939.04s -> 2941.04s] SPEAKER 0:  para sip-sip.
+[2941.04s -> 2943.04s] SPEAKER 3:  Ayun. Tapos, ayun pala,
+[2943.04s -> 2945.04s] SPEAKER 3:  sa 124, we encourage you
+[2945.04s -> 2947.04s] SPEAKER 3:  na...
+[2947.04s -> 2949.04s] SPEAKER 3:  Mag-DP plus kasi tayo sa
+[2949.04s -> 2951.04s] SPEAKER 3:  April 1. So, prepare na
+[2951.04s -> 2953.04s] SPEAKER 3:  kayo ng picture. Isi-send ko na ngayon template
+[2953.04s -> 2955.04s] SPEAKER 3:  para malagay nyo na yung inyong pictures.
+[2956.04s -> 2958.04s] SPEAKER 0:  Thank you very much.
+[2960.04s -> 2962.04s] SPEAKER 0:  Sobrit naman.
+[2962.04s -> 2964.04s] SPEAKER 0:  Pali magano tayo, diba?
+[2964.04s -> 2966.04s] SPEAKER 3:  Mag-DP plus tayo.
+[2966.04s -> 2968.04s] SPEAKER 3:  So, parang isa yun sa ano natin,
+[2968.04s -> 2970.04s] SPEAKER 3:  sa promotion natin na
+[2970.04s -> 2972.04s] SPEAKER 3:  pwede silang pumunta
+[2972.04s -> 2974.04s] SPEAKER 3:  from 1 to 4 para it-try lahat ng
+[2974.04s -> 2976.04s] SPEAKER 3:  stations for free, ha?
+[2976.04s -> 2978.04s] SPEAKER 3:  So, yung mga ka-klase nyo na may class
+[2978.04s -> 2980.04s] SPEAKER 3:  during that day
+[2980.04s -> 2982.04s] SPEAKER 3:  and wala ng class ng 1 to 4
+[2982.04s -> 2984.04s] SPEAKER 3:  or wala ng class
+[2984.04s -> 2986.04s] SPEAKER 3:  ng any time between
+[2986.04s -> 2988.04s] SPEAKER 3:  1 to 4,
+[2988.04s -> 2990.04s] SPEAKER 3:  ay ayain nyo na pumunta sa
+[2990.04s -> 2992.04s] SPEAKER 3:  IRTC, diba?
+[2992.04s -> 2994.04s] SPEAKER 3:  IRTC. Wala silang
+[2994.04s -> 2996.04s] SPEAKER 3:  ano? Wala silang
+[2996.04s -> 2998.04s] SPEAKER 3:  anything na babayaran.
+[2998.04s -> 3000.04s] SPEAKER 3:  Ganun. Pwede silang
+[3000.04s -> 3002.04s] SPEAKER 3:  mag-try ng stations.
+[3002.04s -> 3004.04s] SPEAKER 3:  8 stations yung
+[3004.04s -> 3006.04s] SPEAKER 3:  like 8 or 7 stations
+[3006.04s -> 3008.04s] SPEAKER 3:  or 7 stations yung
+[3008.04s -> 3010.04s] SPEAKER 3:  i-open natin sa lahat.
+[3010.04s -> 3012.04s] SPEAKER 3:  Ganun.
+[3013.04s -> 3015.04s] SPEAKER 3:  Kaya mag-anness kayo.
+[3015.04s -> 3017.04s] SPEAKER 3:  Wala nga wala yung picture.
+[3018.04s -> 3020.04s] SPEAKER 3:  Ayun.
+[3020.04s -> 3022.04s] SPEAKER 3:  So, we encourage you na
+[3022.04s -> 3024.04s] SPEAKER 3:  mag-aya
+[3024.04s -> 3026.04s] SPEAKER 3:  ng mga classmates
+[3026.04s -> 3028.04s] SPEAKER 3:  nyo, ganun.
+[3028.04s -> 3030.04s] SPEAKER 3:  After
+[3030.04s -> 3032.04s] SPEAKER 3:  ng class nyo.
+[3032.04s -> 3034.04s] SPEAKER 3:  Oo nga. Okay.
+[3034.04s -> 3036.04s] SPEAKER 3:  So,
+[3036.04s -> 3038.04s] SPEAKER 3:  eto pang-open.
+[3038.04s -> 3040.04s] SPEAKER 3:  Taas mong pa nga. Meron pa ata.
+[3041.04s -> 3043.04s] UNKNOWN:  Wala na.
+[3043.04s -> 3045.04s] UNKNOWN:  Dito sa ano.
+[3047.04s -> 3049.04s] SPEAKER 0:  Wala na. Paya na ito yung.
+[3049.04s -> 3051.04s] SPEAKER 3:  Babapa. Sige, babapa. Prices.
+[3051.04s -> 3053.04s] SPEAKER 3:  At ang prices. So, ang plan namin prices
+[3053.04s -> 3055.04s] SPEAKER 3:  ayun nga. Yung sa ano, yung sa mga
+[3055.04s -> 3057.04s] SPEAKER 3:  competition ay vente na nalang nyo
+[3057.04s -> 3059.04s] SPEAKER 3:  at basa ng participants. And open to all
+[3059.04s -> 3061.04s] SPEAKER 3:  mga stickers and then candies saka
+[3061.04s -> 3063.04s] SPEAKER 3:  biscuits na lang. Kasi
+[3063.04s -> 3065.04s] SPEAKER 3:  medyo bus na yung pin natin eh.
+[3065.04s -> 3067.04s] SPEAKER 3:  Kaya ano.
+[3067.04s -> 3069.04s] SPEAKER 3:  Ayun. And then
+[3069.04s -> 3071.04s] SPEAKER 3:  about sa suot.
+[3071.04s -> 3073.04s] SPEAKER 3:  So, wala pa tayong ano.
+[3073.04s -> 3075.04s] SPEAKER 3:  Officer shirt.
+[3075.04s -> 3077.04s] SPEAKER 3:  Officer na polo shirt.
+[3077.04s -> 3079.04s] SPEAKER 3:  Lahat ng
+[3079.04s -> 3081.04s] SPEAKER 3:  tatao sa
+[3081.04s -> 3083.04s] SPEAKER 3:  ay lahat ng pupunta
+[3083.04s -> 3085.04s] SPEAKER 3:  na officer
+[3085.04s -> 3087.04s] SPEAKER 3:  sa April 2, we encourage
+[3087.04s -> 3089.04s] SPEAKER 3:  you na magdala ng white t-shirt.
+[3089.04s -> 3091.04s] SPEAKER 3:  Plain white t-shirt.
+[3093.04s -> 3095.04s] SPEAKER 3:  Ha? Kasi yung ano, yung mga
+[3095.04s -> 3097.04s] SPEAKER 3:  participants, mag-i-uniform sila
+[3097.04s -> 3099.04s] SPEAKER 3:  since Tuesday yun.
+[3099.04s -> 3101.04s] SPEAKER 3:  And then lalagyan lang natin sila ng balon
+[3101.04s -> 3103.04s] SPEAKER 3:  sa ulo para
+[3103.04s -> 3105.04s] SPEAKER 3:  makategorize natin kung alang team.
+[3105.04s -> 3107.04s] SPEAKER 3:  And then, so we
+[3107.04s -> 3109.04s] SPEAKER 3:  encourage you lahat ng April 2
+[3109.04s -> 3111.04s] SPEAKER 3:  is
+[3111.04s -> 3113.04s] SPEAKER 3:  magdala ng
+[3113.04s -> 3115.04s] SPEAKER 3:  plain white t-shirt.
+[3115.04s -> 3117.04s] SPEAKER 3:  Tapos yung, if meron kayong lanyard ng
+[3117.04s -> 3119.04s] SPEAKER 3:  TG, sasakalin ko kayo kapag wala.
+[3119.04s -> 3121.04s] SPEAKER 3:  Lanyard ng
+[3121.04s -> 3123.04s] SPEAKER 3:  TG, suot nyo na lang.
+[3123.04s -> 3125.04s] SPEAKER 3:  Plain white t-shirt, ha?
+[3127.04s -> 3129.04s] SPEAKER 3:  Keri ba yun, Keri?
+[3129.04s -> 3131.04s] SPEAKER 3:  Plain white t-shirt. Inisip na namin
+[3131.04s -> 3133.04s] SPEAKER 3:  black, kaya lang baka hindi lahat
+[3133.04s -> 3135.04s] SPEAKER 3:  may black.
+[3135.04s -> 3137.04s] SPEAKER 3:  So, wait na lang. For sure naman, lahat may
+[3137.04s -> 3139.04s] SPEAKER 3:  white, plain white shirt.
+[3139.04s -> 3141.04s] SPEAKER 0:  Okay.
+[3143.04s -> 3145.04s] SPEAKER 0:  Ano?
+[3149.04s -> 3151.04s] SPEAKER 0:  Bumili ka? Meron kami on
+[3151.04s -> 3153.04s] SPEAKER 3:  charo na. Meron sa
+[3153.04s -> 3155.04s] SPEAKER 3:  ano? Meron dadalin si Jun.
+[3155.04s -> 3157.04s] SPEAKER 3:  Sobra pa dun.
+[3157.04s -> 3159.04s] SPEAKER 3:  And then,
+[3159.04s -> 3161.04s] SPEAKER 3:  reminders.
+[3161.04s -> 3163.04s] SPEAKER 3:  Ayun.
+[3163.04s -> 3165.04s] SPEAKER 3:  So, ito taposin na natin. Ito yung reminders na
+[3165.04s -> 3167.04s] SPEAKER 3:  kailangan mag-picture tayo doon sa station
+[3167.04s -> 3169.04s] SPEAKER 3:  ng sponsor.
+[3169.04s -> 3171.04s] SPEAKER 3:  And then, call time natin is 7 a.m.
+[3171.04s -> 3173.04s] SPEAKER 3:  So, if Keri nyo po, charo.
+[3173.04s -> 3175.04s] SPEAKER 3:  7 a.m. kasi ang bukas ng IRTC.
+[3175.04s -> 3177.04s] SPEAKER 3:  Pero Keri na siguri yan.
+[3177.04s -> 3179.04s] SPEAKER 3:  7 a.m. ang call time natin
+[3179.04s -> 3181.04s] SPEAKER 3:  sa TAUP na yun, ha?
+[3181.04s -> 3183.04s] SPEAKER 3:  Hindi 7, manligo.
+[3183.04s -> 3185.04s] SPEAKER 3:  And aalis ng bahay.
+[3185.04s -> 3187.04s] SPEAKER 1:  7 a.m.
+[3187.04s -> 3189.04s] SPEAKER 1:  Sakalin ko kayo.
+[3191.04s -> 3193.04s] SPEAKER 3:  Charot ako pala yung laging late.
+[3193.04s -> 3195.04s] SPEAKER 3:  So, 7 a.m.
+[3195.04s -> 3197.04s] SPEAKER 3:  ang call time natin.
+[3197.04s -> 3199.04s] SPEAKER 3:  Parang meron parang tayong one or two
+[3199.04s -> 3201.04s] SPEAKER 3:  to settle everything
+[3201.04s -> 3203.04s] SPEAKER 3:  bago mag-opening ceremony.
+[3203.04s -> 3205.04s] SPEAKER 3:  Okay.
+[3205.04s -> 3207.04s] SPEAKER 3:  And then, ayun. Wala ata si Rena
+[3207.04s -> 3209.04s] SPEAKER 3:  sa province.
+[3209.04s -> 3211.04s] SPEAKER 3:  But yung postings ay kailangan ang maskechul
+[3211.04s -> 3213.04s] SPEAKER 3:  kahit sa Monday and all.
+[3213.04s -> 3215.04s] SPEAKER 3:  And then, ayun. Monday.
+[3215.04s -> 3217.04s] SPEAKER 3:  Ulitin ko lang.
+[3217.04s -> 3219.04s] SPEAKER 3:  Deep in Blast tayo.
+[3227.04s -> 3229.04s] SPEAKER 0:  Monday, prepare na kayo
+[3229.04s -> 3231.04s] SPEAKER 0:  ng picture nyo para sa ating Deep in Blast.
+[3231.04s -> 3233.04s] SPEAKER 3:  10 a.m. ipapost ang
+[3233.04s -> 3235.04s] SPEAKER 3:  Deep in Blast. Pero,
+[3235.04s -> 3237.04s] SPEAKER 3:  mag-anon na kayo. Mag-prepare na kayo ng picture nyo.
+[3241.04s -> 3243.04s] UNKNOWN:  Ayun.
+[3245.04s -> 3247.04s] UNKNOWN:  Ayan.
+[3247.04s -> 3249.04s] UNKNOWN:  Pago.
+[3249.04s -> 3251.04s] UNKNOWN:  Ayun.
+[3251.04s -> 3253.04s] UNKNOWN:  Ayan.
+[3253.04s -> 3255.04s] UNKNOWN:  Ayun.
+[3255.04s -> 3257.04s] SPEAKER 0:  Ayan.
+[3257.04s -> 3259.04s] SPEAKER 0:  Ayan.
+[3259.04s -> 3261.04s] SPEAKER 0:  Kayo.
+[3261.04s -> 3263.04s] SPEAKER 0:  Ayun.
+[3263.04s -> 3265.04s] SPEAKER 3:  Ayun.
+[3265.04s -> 3267.04s] SPEAKER 3:  Ayan.
+[3267.04s -> 3269.04s] SPEAKER 3:  Ayun.
+[3269.04s -> 3275.04s] SPEAKER 3:  Mga ati. Tapos April 1, Monday doon tayo mag-post.
+[3275.04s -> 3280.04s] SPEAKER 3:  Bali yun yung isa nating promotion para pumunta sila sa 1 to 4. Ayun.
+[3280.04s -> 3282.04s] SPEAKER 3:  Pero wala na sa baba?
+[3282.04s -> 3284.04s] UNKNOWN:  Wala na.
+[3285.04s -> 3288.04s] UNKNOWN:  Oo. Pipiti-content na to.
+[3291.04s -> 3293.04s] SPEAKER 0:  Huli na.
+[3293.04s -> 3297.04s] SPEAKER 3:  Ayun. So ayun lang. So ayaw ko talaga.
+[3297.04s -> 3306.04s] SPEAKER 3:  And also, if meron pa kayong classmate na tingin niyo interested na bumuun ng team and all.
+[3306.04s -> 3312.04s] SPEAKER 3:  Meron kasi kaming mga kulala na gusto bumuun ng team.
+[3312.04s -> 3317.04s] SPEAKER 3:  Kaya lang ano nang sila, 2 lang ganyan, or 3 lang ganoon.
+[3317.04s -> 3321.04s] SPEAKER 3:  Pero kasi ano namin na 4 talaga sana, 4 members.
+[3321.04s -> 3327.04s] SPEAKER 3:  Para, diba, equal. Maka sabihin pinapartida or what.
+[3327.04s -> 3329.04s] SPEAKER 3:  So 4 sila.
+[3329.04s -> 3331.04s] UNKNOWN:  And then...
+[3331.04s -> 3334.04s] SPEAKER 3:  So pa'y open pa yung registration natin, ha?
+[3334.04s -> 3339.04s] SPEAKER 3:  So, if meron magperong sa inyo or interested, puwede pa.
+[3339.04s -> 3343.04s] SPEAKER 3:  And then Grisel na sabi mo na yung doon sa... si Roberto ba yun?
+[3343.04s -> 3346.04s] SPEAKER 3:  Baka hindi pa na sisi ni Jixie.
+[3346.04s -> 3348.04s] SPEAKER 4:  And then...
+[3348.04s -> 3353.04s] SPEAKER 4:  Napun. Di lang daw po siyang nagre-reply kasi shy time.
+[3353.04s -> 3355.04s] UNKNOWN:  Ah, okay. Pero nasin niya na?
+[3355.04s -> 3357.04s] SPEAKER 0:  Yes po.
+[3357.04s -> 3359.04s] SPEAKER 0:  Okay, go.
+[3359.04s -> 3361.04s] UNKNOWN:  And then, anong pa ba?
+[3361.04s -> 3363.04s] UNKNOWN:  Yun lang, Jen?
+[3363.04s -> 3365.04s] UNKNOWN:  Yun lang.
+[3365.04s -> 3368.04s] UNKNOWN:  Mag-aya ng todo, yun lang.
+[3368.04s -> 3372.04s] SPEAKER 1:  Oo. So much. Mag-aya kayo, guys. Yung sa 1 to 4.
+[3373.04s -> 3377.04s] SPEAKER 3:  Parang may added slice ng pizza kapag makapag-aya.
+[3381.04s -> 3383.04s] SPEAKER 1:  Eh, ilan yung naya-aya?
+[3383.04s -> 3385.04s] SPEAKER 1:  Isang box.
+[3390.04s -> 3393.04s] SPEAKER 1:  Basta yun, guys. Mag-aya kayo.
+[3394.04s -> 3396.04s] SPEAKER 1:  Pero if... anong...
+[3396.04s -> 3399.04s] SPEAKER 1:  Sayang naman niya stations natin.
+[3399.04s -> 3404.04s] SPEAKER 1:  Ay, baka may add pa sila sa stations sa design.
+[3404.04s -> 3409.04s] SPEAKER 1:  Baka may add pa sila anong design yung sa stations na gagawin.
+[3409.04s -> 3411.04s] SPEAKER 1:  Or yun na talaga yun.
+[3413.04s -> 3418.04s] SPEAKER 3:  Hirap na kasi yung design lalo ng limitado yung ano natin.
+[3418.04s -> 3420.04s] SPEAKER 3:  Yung oras doon.
+[3420.04s -> 3422.04s] SPEAKER 3:  Pero eto.
+[3422.04s -> 3426.04s] SPEAKER 3:  Check nyo yung sa GC. Meron akong sinandiyan na ano.
+[3427.04s -> 3432.04s] SPEAKER 3:  Basta parang ganyan yun. Diba? May table. Yung mga tables na brown. Ganun siya.
+[3432.04s -> 3435.04s] SPEAKER 3:  And then nalagyan natin ng stick diyan sa dalawang gilid.
+[3435.04s -> 3438.04s] SPEAKER 3:  And then yung ano... yung...
+[3438.04s -> 3442.04s] SPEAKER 3:  Meron title na naka-print na ko. For example, Station 8.
+[3442.04s -> 3444.04s] SPEAKER 3:  Tapos yung pangalan ng Anes.
+[3444.04s -> 3446.04s] UNKNOWN:  Pangalan ng...
+[3446.04s -> 3449.04s] SPEAKER 3:  Ano? Station. Yung challenger doon.
+[3449.04s -> 3451.04s] SPEAKER 3:  Ganun.
+[3451.04s -> 3454.04s] SPEAKER 1:  Limited lang kasi yung kailangan na ano.
+[3454.04s -> 3457.04s] SPEAKER 1:  Kasi bawal magdikit.
+[3457.04s -> 3460.04s] SPEAKER 1:  Bawal magdikit-dikit masyado sa IRTC.
+[3460.04s -> 3463.04s] SPEAKER 1:  Yung mga table. Bawal mo masyado siyang diketan.
+[3463.04s -> 3466.04s] SPEAKER 1:  E, pag ganun. Diba? Syempre scotch tape.
+[3466.04s -> 3470.04s] SPEAKER 1:  Pwede naman. Pero like, sobrang ano lang.
+[3470.04s -> 3474.04s] SPEAKER 1:  E, pag nagbubut pa naman tayo, todo scotch tape.
+[3476.04s -> 3479.04s] SPEAKER 1:  Todo nakapalibot sa table.
+[3480.04s -> 3481.04s] SPEAKER 1:  Bawal.
+[3481.04s -> 3485.04s] SPEAKER 1:  So, kaya yun. Kaya medyo ano yung design per station.
+[3485.04s -> 3487.04s] SPEAKER 1:  Ayun lang nang insip namin.
+[3487.04s -> 3489.04s] SPEAKER 1:  Na possible.
+[3489.04s -> 3494.04s] SPEAKER 1:  Like, naka-hang yung title, yung station number doon sa two sticks.
+[3494.04s -> 3496.04s] SPEAKER 1:  Ganun.
+[3497.04s -> 3501.04s] SPEAKER 1:  Tapos yung tarp nung sa sponsor, naka-gilid lang siya.
+[3501.04s -> 3503.04s] SPEAKER 1:  Since may stand. Ayun.
+[3503.04s -> 3505.04s] SPEAKER 1:  Ganun lang.
+[3505.04s -> 3506.04s] SPEAKER 1:  Ano pa ba?
+[3506.04s -> 3507.04s] SPEAKER 1:  Hindi.
+[3507.04s -> 3510.04s] SPEAKER 1:  If, for example, na-free na kayo ng ano.
+[3510.04s -> 3512.04s] SPEAKER 3:  Nang...
+[3512.04s -> 3516.04s] SPEAKER 3:  Or parang nag-announcing t-shirt niyo ng ano.
+[3516.04s -> 3518.04s] SPEAKER 3:  Cancellation of ano.
+[3518.04s -> 3521.04s] SPEAKER 3:  Mag-update na ko yung support, ha?
+[3521.04s -> 3524.04s] SPEAKER 3:  Kailangan pa rin namin ng ano ninyo.
+[3524.04s -> 3527.04s] UNKNOWN:  Assurance kung makakapunta or what.
+[3528.04s -> 3531.04s] UNKNOWN:  Punta na kayo last na to. Charot. Hindi pa.
+[3531.04s -> 3534.04s] UNKNOWN:  I mean ano na to.
+[3534.04s -> 3536.04s] UNKNOWN:  I mean...
+[3536.04s -> 3539.04s] UNKNOWN:  Event natin to. Punta kayo, please.
+[3542.04s -> 3545.04s] SPEAKER 3:  Halos magkasakit-sakit si Jane. Charot.
+[3545.04s -> 3548.04s] SPEAKER 0:  Oh, eh. Oh, eh.
+[3552.04s -> 3555.04s] SPEAKER 3:  Mayroon ka pa. Parang makalunch na sila.
+[3555.04s -> 3557.04s] SPEAKER 0:  Lunch talaga.
+[3557.04s -> 3559.04s] SPEAKER 3:  I'm sorry.
+[3559.04s -> 3563.04s] SPEAKER 3:  Ano yun, te? Si MC ata may sinasabi.
+[3563.04s -> 3565.04s] SPEAKER 1:  Ano yun, te?
+[3566.04s -> 3567.04s] UNKNOWN:  Ano, te?
+[3567.04s -> 3569.04s] UNKNOWN:  Rehearsal?
+[3569.04s -> 3573.04s] UNKNOWN:  Sa ano pa? Sa April 1?
+[3574.04s -> 3576.04s] UNKNOWN:  Ako.
+[3576.04s -> 3579.04s] SPEAKER 3:  Dry rin natin by April 1.
+[3579.04s -> 3585.04s] SPEAKER 3:  So lahat ng... Ato pala. Lahat ng facilitators.
+[3586.04s -> 3591.04s] UNKNOWN:  Okay. Parang we require yun na din na pumunta ng April 1.
+[3591.04s -> 3594.04s] UNKNOWN:  Para makapag-practice tayo.
+[3594.04s -> 3597.04s] SPEAKER 3:  And maprepare natin lahat. Okay?
+[3597.04s -> 3602.04s] SPEAKER 3:  So sa mga nasabing facilitators, mayroon bang hindi makakapunta ng April 1?
+[3602.04s -> 3605.04s] UNKNOWN:  Taas mo ngayon facilitators na.
+[3608.04s -> 3612.04s] UNKNOWN:  So lahat makakapunta si...
+[3612.04s -> 3615.04s] UNKNOWN:  April 1, te?
+[3615.04s -> 3616.04s] SPEAKER 0:  Ano na?
+[3616.04s -> 3617.04s] SPEAKER 0:  Bakit?
+[3617.04s -> 3619.04s] SPEAKER 3:  Sino?
+[3619.04s -> 3622.04s] UNKNOWN:  Ellen, hindi ka makapunta April 1?
+[3627.04s -> 3630.04s] SPEAKER 0:  Siguro... ano?
+[3632.04s -> 3634.04s] SPEAKER 0:  Pero carry lang naman yung thing.
+[3634.04s -> 3636.04s] SPEAKER 0:  10-12.
+[3636.04s -> 3641.04s] SPEAKER 0:  Kasi kung ano lang naman yung task, mandali lang i-explain.
+[3644.04s -> 3647.04s] UNKNOWN:  10-12 kasi...
+[3649.04s -> 3654.04s] SPEAKER 1:  Yung dibilhan namin nung... itong tawag dito? Nung mga ganire.
+[3655.04s -> 3656.04s] SPEAKER 1:  Ito, yung mga...
+[3656.04s -> 3658.04s] SPEAKER 1:  Ano 10-12?
+[3658.04s -> 3660.04s] SPEAKER 3:  10 or 12 pa ako.
+[3660.04s -> 3661.04s] SPEAKER 1:  Ah, yung start.
+[3661.04s -> 3665.04s] SPEAKER 3:  Kasi ang DPMART nag-open LSGs.
+[3666.04s -> 3667.04s] SPEAKER 3:  Ah.
+[3667.04s -> 3672.04s] SPEAKER 3:  So ang time ng preparation natin, mga 1?
+[3672.04s -> 3673.04s] SPEAKER 0:  Oo.
+[3673.04s -> 3675.04s] SPEAKER 0:  Okay. 1 daw.
+[3675.04s -> 3678.04s] SPEAKER 3:  April 1. 1 PM.
+[3678.04s -> 3680.04s] SPEAKER 3:  Hapon na.
+[3680.04s -> 3682.04s] SPEAKER 3:  Ganun.
+[3682.04s -> 3686.04s] SPEAKER 0:  Kasi 5 pasok natin ng ARTC, if ever.
+[3686.04s -> 3689.04s] SPEAKER 0:  Kung matutuli yung event ng CIA.
+[3695.04s -> 3696.04s] SPEAKER 0:  Ayun.
+[3696.04s -> 3698.04s] SPEAKER 0:  L...
+[3698.04s -> 3700.04s] SPEAKER 0:  50-50 ka.
+[3700.04s -> 3702.04s] SPEAKER 0:  Lahat ano?
+[3703.04s -> 3705.04s] SPEAKER 0:  Taglang.
+[3705.04s -> 3707.04s] SPEAKER 0:  Arsenic, makakadala...
+[3707.04s -> 3710.04s] SPEAKER 3:  Diretso po ako, klasi. Pero pag ang good decision.
+[3710.04s -> 3712.04s] SPEAKER 3:  Saan?
+[3712.04s -> 3714.04s] SPEAKER 3:  Asing kyan. Asing kyan.
+[3714.04s -> 3718.04s] SPEAKER 3:  Arsenic, makakadala ka ng laptop by April 1 and 2.
+[3718.04s -> 3720.04s] SPEAKER 8:  April 1...
+[3720.04s -> 3723.04s] SPEAKER 8:  Or especially April 2. April 2.
+[3723.04s -> 3729.04s] SPEAKER 3:  April 2 hindi ako sure kung makapagdala ko. Sabihan na lang kata.
+[3729.04s -> 3731.04s] SPEAKER 3:  Give me 10 reasons why.
+[3732.04s -> 3737.04s] SPEAKER 8:  Ano bang need sana? Kasi naka-need ako, diba? Yung bakit isaksakan.
+[3737.04s -> 3739.04s] UNKNOWN:  Hindi...
+[3739.04s -> 3742.04s] SPEAKER 3:  Ano, gagamitin sa station? Kulang pa isa.
+[3742.04s -> 3744.04s] SPEAKER 3:  Kailang.
+[3744.04s -> 3745.04s] SPEAKER 8:  Oo.
+[3745.04s -> 3749.04s] UNKNOWN:  May mga ano bang need isaksakdan natin gyan?
+[3749.04s -> 3751.04s] UNKNOWN:  Ano na?
+[3751.04s -> 3754.04s] SPEAKER 8:  I mean mga USB na kaano, may mga sinasaksakan.
+[3754.04s -> 3756.04s] SPEAKER 8:  Wala. Wala.
+[3757.04s -> 3759.04s] SPEAKER 0:  Ay bakit ba?
+[3760.04s -> 3762.04s] SPEAKER 8:  Ano isasaksak na USB?
+[3762.04s -> 3767.04s] SPEAKER 8:  Hindi kasi baka may mga isaksak na HDMI or something na gano'n.
+[3768.04s -> 3776.04s] SPEAKER 3:  Ah. Ay, feeling ko yun lang. Yun sa LeadWall. If ever gagamitin yung laptop niya for tech ops.
+[3776.04s -> 3777.04s] SPEAKER 3:  Pero...
+[3777.04s -> 3782.04s] SPEAKER 3:  Hindi magagamitin laptop ni Arsenic sa LeadWall kasi walang HDMI yun, MacBook yun.
+[3782.04s -> 3784.04s] SPEAKER 3:  Ayun nga.
+[3784.04s -> 3785.04s] SPEAKER 0:  Ayun yun.
+[3785.04s -> 3788.04s] SPEAKER 0:  Ayun yung HDMI ba yun? Basta wala siya yung malalaking sang Amping.
+[3788.04s -> 3790.04s] SPEAKER 3:  Pakabukas siya.
+[3790.04s -> 3793.04s] SPEAKER 3:  Walang ano? Ano ang nagpawag dito?
+[3793.04s -> 3795.04s] SPEAKER 3:  VGA?
+[3796.04s -> 3803.04s] SPEAKER 8:  Ano na lang? Try ko manhiram sa pinsan ko kung meron siya ng... sa ano? Sa pang Mac.
+[3805.04s -> 3808.04s] SPEAKER 0:  Okay. Pero dalang na. By April 2.
+[3809.04s -> 3811.04s] SPEAKER 3:  Ano pa?
+[3811.04s -> 3813.04s] SPEAKER 3:  Wait lang. Eto pala. Arsenic.
+[3813.04s -> 3818.04s] SPEAKER 3:  Pero kaya ba? Meron isang tech ops. 8 to 1. Para lang mag-technicals.
+[3821.04s -> 3823.04s] SPEAKER 8:  Si ano ba?
+[3823.04s -> 3826.04s] SPEAKER 8:  Si Manuel. Mukupanta ba si Manuel?
+[3826.04s -> 3829.04s] SPEAKER 8:  Ano pa si Manuel eh? 1 to 4 si Manuel eh.
+[3835.04s -> 3837.04s] SPEAKER 0:  Si Eurion.
+[3838.04s -> 3840.04s] SPEAKER 0:  1 to 4 din. Kata.
+[3840.04s -> 3842.04s] SPEAKER 0:  1 to 4.
+[3850.04s -> 3852.04s] SPEAKER 0:  Walang Carey.
+[3852.04s -> 3854.04s] SPEAKER 8:  Si Roy. Si Roy.
+[3854.04s -> 3856.04s] SPEAKER 8:  Si Roy ba?
+[3856.04s -> 3859.04s] SPEAKER 3:  Hindi, hindi ko... hindi naga... hindi nag-responsible.
+[3861.04s -> 3863.04s] SPEAKER 8:  Chat mo nga if Carey.
+[3864.04s -> 3868.04s] SPEAKER 8:  Diba sabi ko si Eto ba may ano nga mo? May long quiz kami.
+[3868.04s -> 3871.04s] SPEAKER 8:  Kasi 7.30 naman yung 30 minutes lang.
+[3871.04s -> 3875.04s] SPEAKER 8:  So mga 8... kung 8 ah, kung 8 matatapos naman namin kagad.
+[3875.04s -> 3879.04s] SPEAKER 8:  Sige ko mga 8. Nandon naman ako ng 8 if ever.
+[3880.04s -> 3882.04s] SPEAKER 0:  Oo, okay. Sige.
+[3885.04s -> 3888.04s] SPEAKER 0:  So long quiz lang siya? Sure ka 8?
+[3889.04s -> 3892.04s] UNKNOWN:  8 hanggang 12?
+[3893.04s -> 3900.04s] SPEAKER 0:  Oo, 8. Eh yun pala, nandon ko pala ng 8 eh. Long quiz lang ba yun?
+[3903.04s -> 3906.04s] SPEAKER 3:  Hindi ah, yun. Basta ano ka na lang. Update ka na lang.
+[3906.04s -> 3908.04s] SPEAKER 3:  Basta need ng isang technicals ba eh?
+[3910.04s -> 3914.04s] SPEAKER 8:  Oo, kasi ano naman siya kung... kasi nag-ass naman ako.
+[3914.04s -> 3918.04s] SPEAKER 8:  Sabi ko kay Ma'am Binalon. Sabi ko, Ma'am, pwede po bang ano...
+[3918.04s -> 3920.04s] SPEAKER 8:  Ito naman nag-cheese miss pa.
+[3920.04s -> 3921.04s] SPEAKER 8:  Eh, sinig, sinig.
+[3921.04s -> 3924.04s] SPEAKER 8:  Sige na. Sige na. Basta need ko isang technicals.
+[3924.04s -> 3925.04s] SPEAKER 3:  Oo, okay.
+[3925.04s -> 3926.04s] SPEAKER 8:  Ano yung clues... wait lang.
+[3926.04s -> 3927.04s] SPEAKER 8:  Ano yun?
+[3927.04s -> 3932.04s] SPEAKER 3:  Ano yung clues doon nyan, Grisel? Chicken and gulay, 1.30?
+[3935.04s -> 3937.04s] SPEAKER 0:  Baka meron minimum packs yan, oh?
+[3943.04s -> 3949.04s] SPEAKER 0:  With water na. Carry na yan, ti. Kung with water, kasi magkano, oh?
+[3951.04s -> 3952.04s] SPEAKER 0:  Oh, 100.
+[3952.04s -> 3956.04s] SPEAKER 0:  Hindi ba rin? Day 130? Ang mahalong 130, Ganga.
+[3958.04s -> 3961.04s] SPEAKER 0:  Ay, in front of that. Sorry.
+[3970.04s -> 3973.04s] SPEAKER 0:  Sige, check na lang namin. Para ano na din.
+[3974.04s -> 3978.04s] SPEAKER 3:  Check na lang natin. Para hindi na tayo tumakbutakbo na...
+[3978.04s -> 3980.04s] SPEAKER 3:  Pero bahala na na. Sige.
+[3980.04s -> 3981.04s] SPEAKER 3:  Chat na lang kami, ti.
+[3981.04s -> 3987.04s] SPEAKER 3:  Bali yan na yung isang chicken, tas isang gulay, with water na ano?
+[3989.04s -> 3991.04s] SPEAKER 3:  130 pesos. Walang minimum, ha?
+[3991.04s -> 3993.04s] SPEAKER 3:  May minimum ba yan?
+[3994.04s -> 3997.04s] SPEAKER 0:  Ti, Grisel. Baka may minimum, ha?
+[4001.04s -> 4002.04s] SPEAKER 0:  Baka may minimum order.
+[4006.04s -> 4007.04s] SPEAKER 0:  Okay.
+[4008.04s -> 4009.04s] SPEAKER 0:  Okay.
+[4009.04s -> 4011.04s] SPEAKER 0:  Sige, update ka namin.
+[4014.04s -> 4016.04s] UNKNOWN:  Baka ng final.
+[4017.04s -> 4018.04s] SPEAKER 0:  And...
+[4019.04s -> 4021.04s] SPEAKER 0:  Ano ba ba?
+[4024.04s -> 4025.04s] SPEAKER 0:  Thank you.
+[4025.04s -> 4030.04s] SPEAKER 0:  Ayun, kayo guys. Baka may ano ba kayong other questions, clarifications, and ano?
+[4033.04s -> 4037.04s] SPEAKER 3:  Send ko lang lang ko yung ano, yung mechanics and all.
+[4037.04s -> 4040.04s] SPEAKER 3:  Pero nasabi ko na brief ko naman siya.
+[4040.04s -> 4043.04s] SPEAKER 7:  Send ko lang lang din. Baka gusto niyo ba sa akin?
+[4047.04s -> 4049.04s] SPEAKER 0:  Ano? May sasabihin ka pa pa?
+[4050.04s -> 4051.04s] SPEAKER 0:  Wala naman.
+[4053.04s -> 4057.04s] SPEAKER 0:  Kayo guys, you have questions pa pa?
