@@ -4,8 +4,9 @@ from language_detect import detect_language
 
 
 class TranscriptProcessor:
-    def __init__(self, transcript: str, model_name: str = 'llama3.1:latest'):
+    def __init__(self, transcript: str, agenda_items: list[str], model_name: str = 'llama3.1:latest'):
         self.transcript = transcript
+        self.agenda_items  = agenda_items
         self.model_name = model_name
         self.language_detected = None
         self.minutes = ""
@@ -34,10 +35,13 @@ class TranscriptProcessor:
         """
         Build the prompt for generating meeting minutes.
         """
-        return f"""
-        I am preparing the meeting minutes for a meeting held on {date.today().strftime('%Y-%m-%d')}.
+        agenda_section = "\n".join([f"- {agenda.strip()}" for agenda in self.agenda_items])
 
-        Please generate comprehensive meeting minutes from the provided transcript including the following:
+        return f"""
+        I am preparing the meeting minutes for a meeting held on {date.today().strftime('%Y-%m-%d')}
+        The following agenda is the main objective of the meeting: {agenda_section}
+
+        Generate comprehensive meeting minutes from the provided transcript including the following:
         - Discussion Points: Detail the topics discussed, including any debates or alternate viewpoints, exactly as they appear in the transcript.
         - Decisions Made: Record all decisions, including who made them and the rationale, as stated in the transcript.
         - Action Items: Specify tasks assigned, responsible individuals, and deadlines. List each one with the assigned owner and due date in the format: "[Owner] suggested [action item]". Include only the action items directly mentioned in the transcript.
@@ -81,11 +85,14 @@ class TranscriptProcessor:
 
 
 class MeetingProcessorApp:
-    def __init__(self, transcript_file_path: str, output_file_path: str):
+    def __init__(self, transcript_file_path: str, agenda_file_path: str, output_file_path: str):
         self.transcript_file_path = transcript_file_path
         self.output_file_path = output_file_path
+        self.agenda_file_path = agenda_file_path
         self.transcript = self._load_transcript()
-        self.processor = TranscriptProcessor(self.transcript)
+        self.agenda_items = self._load_agenda()
+        self.processor = TranscriptProcessor(self.transcript, self.agenda_items)
+
 
     def _load_transcript(self):
         """
@@ -93,7 +100,14 @@ class MeetingProcessorApp:
         """
         with open(self.transcript_file_path, 'r') as file:
             return file.read()
-
+        
+    def _load_agenda(self):
+        """
+        Load the agenda items from the file.
+        """
+        with open(self.agenda_file_path, 'r') as file:
+            return file.readlines()
+        
     def process_meeting(self):
         """
         Process the meeting by detecting language, generating minutes, and saving them.
@@ -105,10 +119,11 @@ class MeetingProcessorApp:
 
 # Main entry point
 def main():
-    transcript_file_path = "testfiles/chair meeting.txt"
+    transcript_file_path = "testfiles/weekly_sample.txt"
     output_file_path = "minutes.txt"
+    agenda_file_path = "testfiles/test_agenda.txt"
 
-    app = MeetingProcessorApp(transcript_file_path, output_file_path)
+    app = MeetingProcessorApp(transcript_file_path, agenda_file_path, output_file_path)
     app.process_meeting()
 
 if __name__ == "__main__":
