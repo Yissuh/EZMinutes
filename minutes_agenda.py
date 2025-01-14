@@ -38,7 +38,7 @@ class TranscriptProcessor:
         agenda_section = "\n".join([f"- {agenda.strip()}" for agenda in self.agenda_items])
 
         return f"""
-        I am preparing the meeting minutes for a meeting held on {date.today().strftime('%Y-%m-%d')}
+        I am preparing the meeting minutes for a meeting held on [{date.today().strftime('%Y-%m-%d')}]
         The following agenda is the main objective of the meeting: {agenda_section}
 
         Generate comprehensive meeting minutes from the provided transcript including the following:
@@ -56,9 +56,11 @@ class TranscriptProcessor:
 
         {self.transcript}
 
-        Here is an example of the expected output format for the meeting minutes:
+        Generate the output strictly following this expected format for the meeting minutes:
 
         ### Meeting Minutes for {date.today().strftime('%Y-%m-%d')}
+
+        #### Meeting Title:
 
         #### Discussion Points:
 

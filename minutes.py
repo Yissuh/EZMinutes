@@ -1,6 +1,10 @@
 import ollama
 from datetime import date
 from language_detect import detect_language
+#TRANSCRIPT_FILE = "testfiles/board meeting.txt"
+TRANSCRIPT_FILE = "testfiles/chair meeting.txt"
+#TRANSCRIPT_FILE = "testfiles/effective meeting.txt"
+
 
 
 class TranscriptProcessor:
@@ -47,12 +51,14 @@ class TranscriptProcessor:
         Organize the notes in a clear, easy-to-scan format with headings and bullet points. Focus on capturing the most important and actionable information from the transcript.
         Remember to write the minutes in third person, referring to each participant by their speaker identifier (e.g., 'SPEAKER 0', 'SPEAKER 1') or by name if available in the transcript. DO NOT add any information or context that is not explicitly present in the transcript.
 
-        Assume the date of the meeting is today.
+        Identify and generate the Meeting Title based from the transcript. Assume the date of the meeting is today.
         Below is the transcript:
 
         {self.transcript}
 
-        Here is an example of the expected output format for the meeting minutes:
+        Generate the output strictly following this expected format for the meeting minutes:
+
+        ### Meeting Title:
 
         ### Meeting Minutes for {date.today().strftime('%Y-%m-%d')}
 
@@ -105,8 +111,8 @@ class MeetingProcessorApp:
 
 # Main entry point
 def main():
-    transcript_file_path = "testfiles/chair meeting.txt"
-    output_file_path = "minutes.txt"
+    transcript_file_path = TRANSCRIPT_FILE
+    output_file_path = "minutes_of_the_meeting.txt"
 
     app = MeetingProcessorApp(transcript_file_path, output_file_path)
     app.process_meeting()
