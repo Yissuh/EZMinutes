@@ -36,41 +36,33 @@ class TranscriptProcessor:
         Build the prompt for generating meeting minutes.
         """
         agenda_section = "\n".join([f"- {agenda.strip()}" for agenda in self.agenda_items])
-
+        
         return f"""
-        I am preparing the meeting minutes for a meeting held on [{date.today().strftime('%Y-%m-%d')}]
-        The following agenda is the main objective of the meeting: {agenda_section}
+        Prompt for Generating Simple Meeting Minutes
+        From the provided {self.transcript}, extract the key details for each of the {agenda_section} and specify which speaker said each point. Ensure the following:
 
-        Generate comprehensive meeting minutes from the provided transcript including the following:
-        - Discussion Points: Detail the topics discussed, including any debates or alternate viewpoints, exactly as they appear in the transcript.
-        - Decisions Made: Record all decisions, including who made them and the rationale, as stated in the transcript.
-        - Action Items: Specify tasks assigned, responsible individuals, and deadlines. List each one with the assigned owner and due date in the format: "[Owner] suggested [action item]". Include only the action items directly mentioned in the transcript.
-        - Data & Insights: Summarize any data presented or insights shared that influenced the meeting's course. Include relevant context or details about the meeting, such as the meeting type (e.g., sales call, project update), attendees based on the speaker, and the overall objective. Stick to what was mentioned in the transcript.
-        - Follow-Up: Note any agreed-upon follow-up meetings or checkpoints. Only include follow-ups explicitly mentioned in the transcript. If there is no follow-ups, just state: "A follow-up meeting or checkpoint was not explicitly mentioned in the transcript"
+        Organize the notes in a clear, easy-to-scan format with headings and bullet points.
+        Focus on capturing the most important and actionable information from the transcript.
+        Write the minutes in third person, referring to each participant by their speaker identifier (e.g., "SPEAKER 0", "SPEAKER 1") or by name if available in the transcript.
+        Avoid repeating any detail or statement. Ensure each point is mentioned only once and is strictly related to the corresponding agenda item.
+        Do not add any information or context that is not explicitly present in the transcript.
+        
+        Generate the minutes strictly in this Output Format:
 
-        Organize the notes in a clear, easy-to-scan format with headings and bullet points. Focus on capturing the most important and actionable information from the transcript.
-        Remember to write the minutes in third person, referring to each participant by their speaker identifier (e.g., 'SPEAKER 0', 'SPEAKER 1') or by name if available in the transcript. DO NOT add any information or context that is not explicitly present in the transcript.
+        Meeting Minutes for [DATE]
+        [Agenda Item]
+        Key Points:
+        [Point stated by SPEAKER]
 
-        Assume the date of the meeting is today.
-        Below is the transcript:
+        Then extract these:
+        Actions/Decisions:
+        [Action or decision by SPEAKER]
+        
+        Follow-Up:
+        [Follow-up details or "A follow-up meeting or checkpoint was not explicitly mentioned in the transcript."]
 
-        {self.transcript}
 
-        Generate the output strictly following this expected format for the meeting minutes:
-
-        ### Meeting Minutes for {date.today().strftime('%Y-%m-%d')}
-
-        #### Meeting Title:
-
-        #### Discussion Points:
-
-        #### Decisions Made:
-
-        #### Action Items:
-
-        #### Data & Insights:
-
-        #### Follow-Up:
+        
         """
 
     def save_minutes(self, output_file_path: str):
@@ -123,7 +115,7 @@ class MeetingProcessorApp:
 def main():
     transcript_file_path = "testfiles/weekly_sample.txt"
     output_file_path = "minutes.txt"
-    agenda_file_path = "testfiles/test_agenda.txt"
+    agenda_file_path = "testfiles/empty.txt"
 
     app = MeetingProcessorApp(transcript_file_path, agenda_file_path, output_file_path)
     app.process_meeting()

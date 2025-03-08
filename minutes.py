@@ -2,8 +2,10 @@ import ollama
 from datetime import date
 from language_detect import detect_language
 #TRANSCRIPT_FILE = "testfiles/board meeting.txt"
-TRANSCRIPT_FILE = "testfiles/chair meeting.txt"
+#TRANSCRIPT_FILE = "testfiles/chair meeting.txt"
 #TRANSCRIPT_FILE = "testfiles/effective meeting.txt"
+#TRANSCRIPT_FILE = "testfiles/techguild.txt"
+TRANSCRIPT_FILE = "testfiles/01-15.txt"
 
 
 
