@@ -115,7 +115,7 @@ class MeetingProcessorApp:
 def main():
     transcript_file_path = "testfiles/weekly_sample.txt"
     output_file_path = "minutes.txt"
-    agenda_file_path = "testfiles/empty.txt"
+    agenda_file_path = "testfiles/test_agenda.txt"
 
     app = MeetingProcessorApp(transcript_file_path, agenda_file_path, output_file_path)
     app.process_meeting()
