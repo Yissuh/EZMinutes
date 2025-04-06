@@ -1,0 +1,41 @@
+{
+  "agenda_items": [
+    {
+      "topic": "Chronically Absent Students",
+      "key_points": [
+        "Students are skipping on Fridays",
+        "Possible reasons: hard to get out of bed, getting sick due to cold weather"
+      ]
+    },
+    {
+      "topic": "Student Support for John Smith",
+      "key_points": [
+        "John is stressed out and dealing with family responsibilities",
+        "Guidance counselor meeting recommended",
+        "Free or low-cost childcare resources needed"
+      ]
+    }
+  ],
+  "action_items": [
+    {
+      "task": "Organize pancake breakfast to encourage students to attend on Fridays",
+      "assignee": "Not specified",
+      "deadline": "Next week"
+    },
+    {
+      "task": "Create posters with tips for not getting sick during flu season",
+      "assignee": "SPEAKER 2",
+      "deadline": "Not specified"
+    },
+    {
+      "task": "Refer John Smith to guidance counselor and provide support",
+      "assignee": "SPEAKER 1",
+      "deadline": "Today"
+    },
+    {
+      "task": "Research free or low-cost childcare resources for John's family",
+      "assignee": "SPEAKER 3",
+      "deadline": "Not specified"
+    }
+  ]
+}
